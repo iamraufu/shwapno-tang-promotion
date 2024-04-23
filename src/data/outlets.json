@@ -1,0 +1,4022 @@
+[
+      {
+            "code": "9000",
+            "name": "ALL Head Office",
+            "address": "Novo Tower, 270( 8th Floor),",
+            "district": "Dhaka"
+      },
+      {
+            "code": "B001",
+            "name": "Barishal Katthpotti Outlet",
+            "address": "Road# 51, Kathpotti, Kotoyali",
+            "district": "BARISHAL"
+      },
+      {
+            "code": "B002",
+            "name": "Barishal- Bogra Road",
+            "address": "Barishal Nazim Birianighor, Bo",
+            "district": "Barishal"
+      },
+      {
+            "code": "B003",
+            "name": "BARISHAL-BANGLA ROAD",
+            "address": "BANGLA BAZ 84, BANGLA BAZAR, S",
+            "district": "Barishal"
+      },
+      {
+            "code": "B004",
+            "name": "SADAR ROAD, BARISHAL",
+            "address": "30, Bir Shestro Shahid Captain",
+            "district": "BARISHAL"
+      },
+      {
+            "code": "BA01",
+            "name": "Barisal Regional Distribution",
+            "address": "Sobipur Mension, College",
+            "district": "BARISAL"
+      },
+      {
+            "code": "C001",
+            "name": "Chittagong Gol Pahar Mor Outle",
+            "address": "Forum Central Gol Pahar",
+            "district": "CHITTAGONG"
+      },
+      {
+            "code": "C002",
+            "name": "Chittagong Khulshi Outlet",
+            "address": "A.R. Properties Devel",
+            "district": "CHITTAGONG"
+      },
+      {
+            "code": "C003",
+            "name": "Chittagong Kattoli Outlet",
+            "address": "P#A-6, R#4,CDA R/A,Colnel Hat",
+            "district": "CHITTAGONG"
+      },
+      {
+            "code": "C004",
+            "name": "Chittagong Barik Building Outl",
+            "address": "Saber Plaza161, Stand Road",
+            "district": "CHITTAGONG"
+      },
+      {
+            "code": "C005",
+            "name": "Chittagong Equity Anitryn Outl",
+            "address": "Equity Anitryn,Kotwali",
+            "district": "CHITTAGONG"
+      },
+      {
+            "code": "C006",
+            "name": "Chittagong Equity Village Outl",
+            "address": "Equity Village, Mirzapool",
+            "district": "CHITTAGONG"
+      },
+      {
+            "code": "C007",
+            "name": "Feni Haji Latif Tower Outlet",
+            "address": "House:626,Haji Latif Tower",
+            "district": "Feni"
+      },
+      {
+            "code": "C008",
+            "name": "Panchlaish",
+            "address": "7,Katalgonj Hathhazari Road",
+            "district": "Chittagong"
+      },
+      {
+            "code": "C009",
+            "name": "Hali Shohor Outlet",
+            "address": "House - 2, Road - 2, Lane - 1,",
+            "district": "Chittagong"
+      },
+      {
+            "code": "C010",
+            "name": "Chandgaon Outlet",
+            "address": "A N F L KING CITY, Road # 01,",
+            "district": "Chittagong"
+      },
+      {
+            "code": "C011",
+            "name": "Comilla Outlet",
+            "address": "North Rashlpur Dulipara EPZ Ro",
+            "district": "Comilla"
+      },
+      {
+            "code": "C012",
+            "name": "B.Baria Outlet",
+            "address": "Malek Khayer Plaza, Ground Flo",
+            "district": "Brahmanbaria"
+      },
+      {
+            "code": "C013",
+            "name": "Comilla - 2",
+            "address": "Holding No: 349, Badurtala, Ad",
+            "district": "Comilla"
+      },
+      {
+            "code": "C014",
+            "name": "Halishahar-2 Outlet",
+            "address": "Golondaz Road, Block-J, Halish",
+            "district": "Chattogram"
+      },
+      {
+            "code": "C015",
+            "name": "Khulshi Oulet",
+            "address": "Zakir Hossain Road, Khulshi",
+            "district": "Chattogram"
+      },
+      {
+            "code": "C016",
+            "name": "Chandina Outlet",
+            "address": "Mainuddin Plazza, Khan Bari Ro",
+            "district": "Cumilla"
+      },
+      {
+            "code": "C017",
+            "name": "Feni Outlet",
+            "address": "P.O.# Feni, P.S.# Feni Sadar",
+            "district": "Feni"
+      },
+      {
+            "code": "C018",
+            "name": "Jamalkhan, CTG Outlet",
+            "address": "Shahid Saifuddin Khaled Road",
+            "district": "Chattogram"
+      },
+      {
+            "code": "C019",
+            "name": "Kolatoli, Cox’s Bazar Outlet",
+            "address": "BS (Rectification) 2003, Mouza",
+            "district": "Coxsbazar"
+      },
+      {
+            "code": "C020",
+            "name": "Brahmanbaria Sadar",
+            "address": "JL NO: 68, Brahmanbaria Sadar",
+            "district": "Brahmanbaria"
+      },
+      {
+            "code": "C021",
+            "name": "Jhautola, Cox’s Bazar",
+            "address": "JL No: 16 Cox’s Bazar, Laboni",
+            "district": "Cox’s Bazar"
+      },
+      {
+            "code": "CH01",
+            "name": "Chittagong Regional Distributi",
+            "address": "SA Steel Mills Limited,",
+            "district": "CHITTAGONG"
+      },
+      {
+            "code": "CS01",
+            "name": "Transit Point",
+            "address": "Tejgaon I/A",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D000",
+            "name": "Tejgaon  Wholesale center",
+            "address": "245, ACI Center, Tejgoan I/A",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D001",
+            "name": "Wari Outlet",
+            "address": "36/1 Rankin Street",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D002",
+            "name": "Postogola  Arsin Gate Outlet",
+            "address": "1/2 Arsin Gate",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D003",
+            "name": "Dhaka Uttara 6 Number Sector",
+            "address": "Sector #6, Roard# 13/C, 5 Utta",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D004",
+            "name": "Dhaka  East Nakhal Para Outlet",
+            "address": "House # 286/2, East Nakhal Par",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D005",
+            "name": "Dhaka Central Basabo Outlet",
+            "address": "R.Rahman Garden, 47,Sabujbag",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D006",
+            "name": "Dhaka Malibag Mor Outlet",
+            "address": "260/6, Malibag,",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D007",
+            "name": "Dhaka Green Road Outlet",
+            "address": "Plot # 3A, Road # 4, Dhanmondi",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D008",
+            "name": "Dhaka Lalbag Works Road Outlet",
+            "address": "Plot # 54, Water Works Road,",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D009",
+            "name": "Dhaka Donia outlet",
+            "address": "554, Goal Barir Mor",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D010",
+            "name": "Dhaka Mansoorabad Outlet",
+            "address": "Latif Real Estate, Plot-11-12,",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D011",
+            "name": "Dhaka 90/91 Nazim Uddin Road O",
+            "address": "90/91 Nazim Uddin Road",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D012",
+            "name": "Dhaka Uttar Banasree Outlet",
+            "address": "41/C, R-6, Uttar Banasree",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D013",
+            "name": "Dhaka South Banasree Outlet",
+            "address": "H-76, B-F,1 South Goran Road,",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D014",
+            "name": "Narayangong Missionpara Outlet",
+            "address": "21, Nobab Solimullah Road,",
+            "district": "Narayangong"
+      },
+      {
+            "code": "D015",
+            "name": "Dhaka Mirpur  Sector-6  Outlet",
+            "address": "H-9/5, Sec-6, Block-B, Mirpur",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D016",
+            "name": "Dhaka Uttara Sector-11 Outlet",
+            "address": "Plot-27,R-2 sec-11,Chowrasta",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D017",
+            "name": "Dhaka West Kafrul Outlet",
+            "address": "Palolic Mollick Plaza,",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D018",
+            "name": "Dhaka Laxmibazar  Outlet",
+            "address": "H# 61,Laxmibazar,Sutrapur",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D019",
+            "name": "Dhaka Sky View Khilgaon Outlet",
+            "address": "H# 389/B,SkyView Afrina,Khilga",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D020",
+            "name": "Dhaka Panthapath Outlet",
+            "address": "H#56/4LakeCircus,Kalabagan",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D021",
+            "name": "Dhaka WBC Banani Outlet",
+            "address": "WBC,76/A, B-M,R-11 Banani",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D022",
+            "name": "Dhaka Bibir Bagicha Outlet",
+            "address": "Fhuljan Market,80/C",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D023",
+            "name": "Dhaka Nikunja-2 Outlet",
+            "address": "P#15,R# 6,Nekunja-2",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D024",
+            "name": "Gazipur Tongi College Gate Out",
+            "address": "Badur Uddin Manson",
+            "district": "GAZIPUR"
+      },
+      {
+            "code": "D025",
+            "name": "Mymensingh Shewra Outlet",
+            "address": "12 R K Mission Road",
+            "district": "MYMENSINGH"
+      },
+      {
+            "code": "D026",
+            "name": "West Rampura-Midtown",
+            "address": "389/B, West Rampura,",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D027",
+            "name": "Dhkaka Boro Moghbazar Outlet",
+            "address": "435/1 Boro Mogbazar",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D028",
+            "name": "Dhaka RK Mission Road Outlet",
+            "address": "89/11, R.K.Mission Road",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D029",
+            "name": "Dhaka Rupnagor Mirpur Outlet",
+            "address": "9/18 Rupnagar R/A, Mirpur",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D030",
+            "name": "Dhaka Shepaibagh Outlet",
+            "address": "225, North Goran, Shepaibagh",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D031",
+            "name": "Dhaka Gulshan-2 Outlet",
+            "address": "Gulshan-2",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D032",
+            "name": "Narsingdi West Brmondi Outlet",
+            "address": "Aziz Villa, 285/1 West Brmondi",
+            "district": "Narsinghdi"
+      },
+      {
+            "code": "D033",
+            "name": "Dhaka Bijoy Nagar outlet",
+            "address": "Tapa Tower 169, Shaheed Syed",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D034",
+            "name": "Dhaka  Mohammadpur Outlet",
+            "address": "14/23 Manama Turag Building.",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D035",
+            "name": "Dhaka Dohar Outlet",
+            "address": "Joypara College Market, Dohar",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D036",
+            "name": "Dhaka Rayer Bazar Outlet",
+            "address": "Monica Estate, 295/Jha/14",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D037",
+            "name": "Dhaka Maniknagor Outlet",
+            "address": "65/1/A, Maniknagar Wasa Road",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D038",
+            "name": "Dhaka Ashkona Outlet",
+            "address": "301, Ashkona bazar road",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D039",
+            "name": "Dhaka Hatir Pool Outlet",
+            "address": "Ena Properties, 1 central road",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D040",
+            "name": "Dhaka Pallabi Outlet",
+            "address": "2/6, Pallabi ( Mirpur)",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D041",
+            "name": "Jatrabari Faruk Road",
+            "address": "33, Faruk Road, Uttar Jatrabar",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D042",
+            "name": "Badda- Post Office Road",
+            "address": "Badda LA55, Post Office Road,",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D043",
+            "name": "East Kazi Para Outlet",
+            "address": "Kafrul 558, East Kazi Par, Mad",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D044",
+            "name": "Rayerbagh Outlet",
+            "address": "Kodomtoli 3624, Meraj Nagor, R",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D045",
+            "name": "Azimpur Outlet",
+            "address": "",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D046",
+            "name": "Lake City Concord, Khilket ,Dh",
+            "address": "Lake City Concord, Khilket ,Dh",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D047",
+            "name": "Joydebpur Outlet",
+            "address": "Joydebpur Outlet",
+            "district": "Gazipur"
+      },
+      {
+            "code": "D048",
+            "name": "Outlet Not used",
+            "address": "",
+            "district": ""
+      },
+      {
+            "code": "D049",
+            "name": "North Bonosri-2",
+            "address": "Rampura House# 14 & 30 -B, Mai",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D050",
+            "name": "Archived",
+            "address": ",",
+            "district": ""
+      },
+      {
+            "code": "D051",
+            "name": "Central Basabo-2",
+            "address": "1/Ga, Central Basabo, Sabujbag",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D052",
+            "name": "Tajmohal Road Restaurant",
+            "address": "House # Z/25, Tajmohal Road, M",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D053",
+            "name": "Dhaka Sontek Kajla Outlet",
+            "address": "Habib Khan Tower# 326, South K",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D054",
+            "name": "Rampura Mohanagar outlet",
+            "address": "House-80, Road-05, Block-C, Ra",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D055",
+            "name": "Dhaka Mirpur-12",
+            "address": "House# 01, Road# 01, Block# B,",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D056",
+            "name": "Dhaka Mirpur-Kazipara-2",
+            "address": "Holding No:544/2-C, Kazipara,",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D057",
+            "name": "Dhaka Nakhalpara-2",
+            "address": "261/F, Hazi Moron Ali Road, Na",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D058",
+            "name": "Uttara Sector-03 Outlet",
+            "address": "Uttara NATORE TOWER, Plot No-3",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D059",
+            "name": "Dhaka Monipuri Para Outlet",
+            "address": "27/A, Monipuri Para",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D060",
+            "name": "Gopibagh Outlet",
+            "address": "House No.- 27, Avoy Das Lene,",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D061",
+            "name": "Banani 2 Outlet",
+            "address": "35, Kamal Ataturk Avenue, Bana",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D062",
+            "name": "Gulshan-1 Outlet",
+            "address": "Plot No#06, Gulshan Avenue, Bl",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D063",
+            "name": "Dhaka Wari New Outlet",
+            "address": "36, Rankin Street, Wari",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D064",
+            "name": "Panthapath 2 outlet",
+            "address": "55-2 87, Sheikh Russel Square",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D065",
+            "name": "Mirpur 6 outlet (2)",
+            "address": "House# 33, Lane-01, Block-B, S",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D066",
+            "name": "Mazar Road Outlet",
+            "address": "198, 199, 2nd Colony, Mazar Ro",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D067",
+            "name": "Dhaka Housing Outlet",
+            "address": "Plot -01, Dhaka Housing, Ring",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D068",
+            "name": "Kaderabad Housing Outlet",
+            "address": "Plot: 29, Kaderabad Housing, M",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D069",
+            "name": "Shimultuli Outlet",
+            "address": "BIKALPA TOWER#  Shimultuli, Jo",
+            "district": "Gazipur"
+      },
+      {
+            "code": "D070",
+            "name": "Mirpur-1, Outlet",
+            "address": "Plot -3/A Mirpur City Center,N",
+            "district": "Mirpur, Dhaka"
+      },
+      {
+            "code": "D071",
+            "name": "Mirpur-10, Outlet",
+            "address": "Adarsha High School, Mirpur-10",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D072",
+            "name": "Mirpur-11, Outlet",
+            "address": "House-02, Road-12, Section-06,",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D073",
+            "name": "Shwapno  SQ Station Outlet",
+            "address": "SQ Station, SQ Gruph, Jamirdia",
+            "district": "Mymensingh"
+      },
+      {
+            "code": "D074",
+            "name": "Dhaka Jigatola Outlet",
+            "address": "Jigatola, Dhanmondi",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D075",
+            "name": "Dhaka Dhanmondi-27 Outlet",
+            "address": "House # New-39, Old-311, Road",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D076",
+            "name": "Dhaka Gulshan-2 New",
+            "address": "Gulshan Hosna Center; House:10",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D077",
+            "name": "Tangail Outlet",
+            "address": "House-60,Block-C, Akur Takur P",
+            "district": ""
+      },
+      {
+            "code": "D078",
+            "name": "Hasnabad Outlet",
+            "address": "Hasnabad Housing society, Road",
+            "district": "Keraniganj"
+      },
+      {
+            "code": "D079",
+            "name": "Dhaka, Ashkona Outlet",
+            "address": "I, Ashkona, Dokhinkhan, Uttara",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D080",
+            "name": "Dhaka, Mugda Outlet",
+            "address": "Sky View Plaza, 3/2 Mugdapara,",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D081",
+            "name": "Merul Badda Outlet",
+            "address": "House -07, Road 12, Merul Badd",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D082",
+            "name": "Dhaka, Indira Road Outlet",
+            "address": "44/K, Indira Road, Sere-e- Ban",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D083",
+            "name": "Golapbagh Outlet",
+            "address": "House 27/E, Golapbagh, Wari",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D084",
+            "name": "Bashundhara Outlet",
+            "address": "Vatara House : Ka-10, Jagannat",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D085",
+            "name": "Mirpur DOHS Outlet",
+            "address": "House: 12/D, Plot: I/30, Road:",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D086",
+            "name": "Mohammadpur Outlet",
+            "address": "House: 04, Mohammadi Housing L",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D087",
+            "name": "Mirpur  Borobagh Outlet",
+            "address": "House: 15/1/1, Borobagh, Mirpu",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D088",
+            "name": "Saterkul Outlet",
+            "address": "Dag-238,Abdullah Bagh more,Sat",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D089",
+            "name": "Mirpur Borobagh Outlet",
+            "address": "Borobagh",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D090",
+            "name": "Dhanmondi 9 Outlet",
+            "address": "Plot# 522 (Old) 02 (New), Road",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D091",
+            "name": "Mirpur 12 Bus Stand Outlet",
+            "address": "Pallabi, Mirpur-12",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D092",
+            "name": "Uttara-03(New) Outlet",
+            "address": "Plot No-1, Road No. 15, Sector",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D093",
+            "name": "Savar Cantonment Outlet",
+            "address": "Sena Shopping complex , Nabina",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D094",
+            "name": "Savar Bazar Road Outlet",
+            "address": "Savar Bazar Road, Savar",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D095",
+            "name": "Kamrangirchar Outlet",
+            "address": "Ashrafabad, Kamrangirchar",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D096",
+            "name": "Aftabnagar Outlet",
+            "address": "Aftabnagar, Badda",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D097",
+            "name": "Lalbagh Kashmiritola Outlet",
+            "address": "166/1, Kashmiritola , Lalbagh",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D098",
+            "name": "Thana Road Savar Outlet",
+            "address": "8/B Talbagh, Thana Road, Savar",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D099",
+            "name": "Hasnabad, South Keraniganj Out",
+            "address": "Police Station: South Keraniga",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D100",
+            "name": "Dhaka Kawran bazaar Aroth",
+            "address": "Shop No. 1 Kawranbazar Khuddro",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D101",
+            "name": "Manikganj Bus stand Outlet",
+            "address": "Manikganj Sadar",
+            "district": "Manikganj"
+      },
+      {
+            "code": "D102",
+            "name": "Mirpur-10, Block-C",
+            "address": "House # 10/C, Avenue # 2/1, Mi",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D103",
+            "name": "Sobhanbagh (Dhanmondi-13)",
+            "address": "Sobhanbagh Ward No: 49, Dhanmo",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D104",
+            "name": "Ring Road, Mohammadpur",
+            "address": "Ring Road, Adabor, Mohammadpur",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D105",
+            "name": "Mohakhali",
+            "address": "Holding No: 35, Bir Uttom A K",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D106",
+            "name": "Moddho Badda, Dhaka",
+            "address": "Bir Uttam Rafiqul Islam Avenue",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D107",
+            "name": "Bashundhara, Block-A",
+            "address": "Bashundhara Appolo Link Road",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D108",
+            "name": "Taltola, Agargaon",
+            "address": "Dhaka Uttar City Corporation",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D109",
+            "name": "Bashundhara, Block-G",
+            "address": "Sayem Sobhan Anvir Road, Bashu",
+            "district": "Dhaka"
+      },
+      {
+            "code": "D200",
+            "name": "GR Transaction Stock",
+            "address": "Green Road",
+            "district": "Dhaka"
+      },
+      {
+            "code": "DK01",
+            "name": "Savar Central Distribution Cen",
+            "address": "Tetuljgora,Rajfulbaria",
+            "district": "Dhaka"
+      },
+      {
+            "code": "DK02",
+            "name": "Tejgaon Distribution Centre",
+            "address": "Tejgoan I/A, Dhaka,171,",
+            "district": "Dhaka"
+      },
+      {
+            "code": "DK03",
+            "name": "Shwapno DC",
+            "address": "",
+            "district": "Dhaka"
+      },
+      {
+            "code": "DK04",
+            "name": "Tejgaon New CDC",
+            "address": "Dhaka IST Floor, 270/B Tejgaon",
+            "district": "Dhaka"
+      },
+      {
+            "code": "DK05",
+            "name": "NFD Distribution Centre",
+            "address": "271, Tejgaon I/A ground floor",
+            "district": "Dhaka"
+      },
+      {
+            "code": "DK06",
+            "name": "Dealer Distribution centre",
+            "address": "Tejgao",
+            "district": "Dhaka"
+      },
+      {
+            "code": "DK07",
+            "name": "Tejgaon NP DC",
+            "address": "Dhaka Dreamland house, 289, Ea",
+            "district": "Dhaka"
+      },
+      {
+            "code": "DK08",
+            "name": "Institution sales",
+            "address": "H#  22/1 ,2/A,Kunipara, Happy",
+            "district": "Dhaka"
+      },
+      {
+            "code": "DK09",
+            "name": "Production Unit (LS)",
+            "address": "",
+            "district": "Dhaka"
+      },
+      {
+            "code": "DK10",
+            "name": "Shwapno Life",
+            "address": "Tejgaon",
+            "district": "Dhaka"
+      },
+      {
+            "code": "DK11",
+            "name": "NEW TDC",
+            "address": "Plot no.219A/B/220A, Tejgaon I",
+            "district": "Dhaka"
+      },
+      {
+            "code": "DK12",
+            "name": "Kunipara DC",
+            "address": "Post# Dhaka Polytechnic Instit",
+            "district": "Dhaka"
+      },
+      {
+            "code": "DK13",
+            "name": "Tejgaon ATA KHAN DC",
+            "address": "185 B & C , Tejgaon",
+            "district": "Dhaka"
+      },
+      {
+            "code": "DK14",
+            "name": "New Kamarpara  DC",
+            "address": "105/8,  Dhour , Nishat Nagar,",
+            "district": "Dhaka"
+      },
+      {
+            "code": "DK15",
+            "name": "Ulukhola kaliganj Equipment DC",
+            "address": "Ulukhola , Kaliganj",
+            "district": "Gazipur"
+      },
+      {
+            "code": "DS01",
+            "name": "Uttara 11",
+            "address": "Chawrasta, Sector-11, Uttara",
+            "district": "Dhaka"
+      },
+      {
+            "code": "DS02",
+            "name": "Uttara 3",
+            "address": "Sector-03, Uttara R/A",
+            "district": "Dhaka"
+      },
+      {
+            "code": "DS03",
+            "name": "Milk Vita",
+            "address": "Pallabi Extension, Mirpur – 07",
+            "district": "Dhaka"
+      },
+      {
+            "code": "E001",
+            "name": "e commerce store",
+            "address": "",
+            "district": "Dhaka"
+      },
+      {
+            "code": "EC00",
+            "name": "E Commerce Head Office",
+            "address": "Novo Tower, 270 Tejgaon I/A",
+            "district": "Dhaka"
+      },
+      {
+            "code": "EC01",
+            "name": "E Commerce Site",
+            "address": "Novo Tower, 270 Tejgaon I/A",
+            "district": "Dhaka"
+      },
+      {
+            "code": "EX00",
+            "name": "ACI Logistics Ltd",
+            "address": "270 Tejgaon I/A",
+            "district": "Dhaka"
+      },
+      {
+            "code": "EX01",
+            "name": "XXXX - Not Using",
+            "address": "",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F001",
+            "name": "Barishal outlet",
+            "address": "Shahid Nazrul Islam Sarak, Pol",
+            "district": "Barisal"
+      },
+      {
+            "code": "F002",
+            "name": "Jamalpur Outlet",
+            "address": "1414, Bokultola Road",
+            "district": "Jamalpur."
+      },
+      {
+            "code": "F003",
+            "name": "Feni outlet",
+            "address": "Grand Haq Tower, Mizan Road",
+            "district": "Feni"
+      },
+      {
+            "code": "F004",
+            "name": "Mymenshing outlet",
+            "address": "Zilla School Mor, Sadar",
+            "district": "Mymenshing."
+      },
+      {
+            "code": "F005",
+            "name": "Nayanagar Outlet",
+            "address": "Dag no-1028, South Kajla, Naya",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F006",
+            "name": "Rupayan Town, Narayanganj",
+            "address": "2175,Bhuighar",
+            "district": "Narayanganj"
+      },
+      {
+            "code": "F007",
+            "name": "Sataish, Tongi.",
+            "address": "707, Sataish, Post- Tongi",
+            "district": "Tongi, Gazipur"
+      },
+      {
+            "code": "F008",
+            "name": "Uttara 13",
+            "address": "Plot :16 Shah Makhdum Avenue,",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F009",
+            "name": "Gulshan Link Road,Moddho Badda",
+            "address": "Gulshan Link Road,Moddho Badda",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F010",
+            "name": "Uttara 10",
+            "address": "Uttara 10",
+            "district": "Dhaka."
+      },
+      {
+            "code": "F011",
+            "name": "Adabor",
+            "address": "House-20, Road-07, Block-Kha,",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F012",
+            "name": "Kathal Bagan, Dhanmondi",
+            "address": "275 Free School Street , Katha",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F013",
+            "name": "Banasree, (Block -H Avenue)",
+            "address": "Block- H Avenue, Road No-8, Ho",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F014",
+            "name": "Uttara 9 (Road -01/B)",
+            "address": "House-8, Road-01/B, Sector-09,",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F015",
+            "name": "Uttara 9 (Road -03/E)",
+            "address": "House-30, Road-03/E, Sector-09",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F016",
+            "name": "Modhumita Road, Tongi",
+            "address": "Agrani Tower, Modhumita Road,",
+            "district": "Tongi, Gazipur"
+      },
+      {
+            "code": "F017",
+            "name": "Modhubagh Express outlet",
+            "address": "House NO: 357/B, Road: Modhuba",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F018",
+            "name": "Mirpur 12(B-Block ) Express ou",
+            "address": "House No: 64, Block: B, Sectio",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F019",
+            "name": "West Kazipara Express Outlet",
+            "address": "720/1 West Kazipara Mirpur",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F020",
+            "name": "Vatara Express Outlet",
+            "address": "Vatara",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F021",
+            "name": "Tajmohal Road Express Outlet",
+            "address": "House No-20/11,Tajmohal Road,",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F022",
+            "name": "Dholikhal Express outlet",
+            "address": "4/1 Panch Bhai Ghat Lane, Sutr",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F023",
+            "name": "Shaymoli( Road -2) Express Out",
+            "address": "House No:12/3, Road No: 02, Sh",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F024",
+            "name": "Tangail Express Outlet",
+            "address": "Rahima Complex,  Zila Sador Ro",
+            "district": "Tangail"
+      },
+      {
+            "code": "F025",
+            "name": "Uttara 6 Express Outlet",
+            "address": "House No:01, Road No: 13, Sect",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F026",
+            "name": "Shegun Bagicha Express Outlet",
+            "address": "Shegun Bagicha, Ramna",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F027",
+            "name": "Prembagan Express Outlet",
+            "address": "178, Mozaffar Tower, Prembagan",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F028",
+            "name": "Borkot Saroni Express  Outlet",
+            "address": "Noljani Paler Math , 9 no Moha",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F029",
+            "name": "Benaroshi Polli Express Outlet",
+            "address": "House - 1, Lane - 10, Block -",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F030",
+            "name": "Uttara 9 (Road-10) Express Out",
+            "address": "House no:27 , Road no: 10, Sec",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F031",
+            "name": "Shajadpur Express Outlet",
+            "address": "RD-EXT 106,Ka-72/4/C, Shajadpu",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F032",
+            "name": "North Pirerbagh Express Outlet",
+            "address": "Flat:55/1/A,Block: North pirer",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F033",
+            "name": "East Shewrapara Express Outlet",
+            "address": "Holding no:905/3, East Shewrap",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F034",
+            "name": "Bhairab Express Outlet",
+            "address": "House: 262, Jame Mosjid Road,",
+            "district": "Bhairab"
+      },
+      {
+            "code": "F035",
+            "name": "Konapara Express Outlet",
+            "address": "Saiful center, Farm circle, Ma",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F036",
+            "name": "Mirpur 6 Express Outlet",
+            "address": "6-D, 4/44, Mirpur",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F037",
+            "name": "Bhuiyapara Express Outlet",
+            "address": "219/Dha Banasree link road, Me",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F038",
+            "name": "Uttar Tolarbagh Express Outlet",
+            "address": "19/K.L ,Uttar Tolarbagh,Darusa",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F039",
+            "name": "Hazipara Express Outlet",
+            "address": "House No: 29,  Hazipara D.I.T",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F040",
+            "name": "Mazar Road , Mirpur Express ou",
+            "address": "House No:114/1, 2nd Colony, Ma",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F041",
+            "name": "Uttar Badda Express outlet",
+            "address": "House No: Cha/100, Girls Schoo",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F042",
+            "name": "Moddho Monipur Express  outlet",
+            "address": "House No:543/ Kha, Monipur(Wes",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F043",
+            "name": "Uttara 10 ( Road-10) Express O",
+            "address": "Ranavola, Sector: Uttara-10, T",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F044",
+            "name": "Jigatola Post Road Express out",
+            "address": "68/C, Jigatala, Dhanmondi",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F045",
+            "name": "Nikunja-1 Express outlet",
+            "address": "Plot No: 57, Road No: Lake Dri",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F046",
+            "name": "Khilgaon Tipapara Express Outl",
+            "address": "House: 452/A, Road NO: 9, Tilp",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F047",
+            "name": "Banasree  (Block-G) Express Ou",
+            "address": "Shop NO: 05, Plot NO: 60, Road",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F048",
+            "name": "Kawla Express outlet",
+            "address": "Vit NO: (1-18), Kawla Bazar, C",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F049",
+            "name": "Bardhito Pallabi Rupnagar Expr",
+            "address": "House No - J-26, Bordhito Pall",
+            "district": "Dhaka."
+      },
+      {
+            "code": "F050",
+            "name": "Mirpur 10 ( C - Block) Express",
+            "address": "House NO: 01, Road NO: 20, Sec",
+            "district": "Dhaka."
+      },
+      {
+            "code": "F051",
+            "name": "Gandaria Express outlet",
+            "address": "House/Holding NO: 94/6, Road N",
+            "district": "Dhaka."
+      },
+      {
+            "code": "F052",
+            "name": "North West Jatrabari Express o",
+            "address": "House-16/2, Wasa Road, North W",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F053",
+            "name": "Joydebpur Busstand  Express ou",
+            "address": "B.I.D.C Bilaspur, Joydebpur.",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F054",
+            "name": "Buddho Mondir,Bashabo Express",
+            "address": "1 no Mayakanon, Atish Diponkor",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F055",
+            "name": "Mir Hazirbagh Express outlet",
+            "address": "193, Mir Hazirbagh, Gandria.",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F056",
+            "name": "Mirpur-12, Block-Ta Express ou",
+            "address": "House - 11, Road 36, Block Ta,",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F057",
+            "name": "Shanti Niketon,Tejgaon Express",
+            "address": "26/A,  Shanti Niketon, Tejgaon",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F058",
+            "name": "West Agargon Express outlet",
+            "address": "185, Amena Garden, West Agarga",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F059",
+            "name": "Alir More, Uttar Badda Express",
+            "address": "House:186, Plot: 1717, Saterku",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F060",
+            "name": "Adorsho Nagar Moddho Badda Exp",
+            "address": "House No: 43, Adarsha Nagar,",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F061",
+            "name": "Tetultala, Khilkhet Express ou",
+            "address": "KA-196/1B, Tetultala, Khilkhet",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F062",
+            "name": "Tannery Mor, Hazaribagh Expres",
+            "address": "Holding No:58/1, Moneshar Road",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F063",
+            "name": "Road-16,Nikunja-2  Express out",
+            "address": "House no: 1/C, 1/D, Road No: 1",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F064",
+            "name": "Shialbari, Rupnagar  Express o",
+            "address": "Plot No: 30/A, Road No: 6, Shi",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F065",
+            "name": "Thana Road, Uttar Badda Expres",
+            "address": "House:24, Thana Road (Hasan Ud",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F066",
+            "name": "Madrasa Road, (Block-F)Mohamma",
+            "address": "Holding: 10/12 Block-F, Kaderi",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F067",
+            "name": "Shonir Akhra Express Outlet",
+            "address": "436, Noyapara, Shonir Akhra, D",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F068",
+            "name": "Kachukhet Express outlet",
+            "address": "Plot no:23, Mouza: 268, Kafrul",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F069",
+            "name": "Commerce College Road Express",
+            "address": "Plot No:S/9, Hazi Road, Block:",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F070",
+            "name": "Masdair,Narayanganj Express ou",
+            "address": "House:1/3, Road no: New Sher E",
+            "district": "Narayanganj"
+      },
+      {
+            "code": "F071",
+            "name": "Kumarpara ,  Sylhet Express ou",
+            "address": "House:02, Block:C, Kumarpara,",
+            "district": "Sylhet"
+      },
+      {
+            "code": "F072",
+            "name": "Rawson Sarak Gazipur Chowrasta",
+            "address": "515/1, Shop  No: 3 to 32 , Raw",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F073",
+            "name": "East Shewrapara( Orbit Goli )E",
+            "address": "Holding No:977 East Shewrapara",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F074",
+            "name": "Tongi College Road Express",
+            "address": "78,Ovijan, Auchpara Tongi Coll",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F075",
+            "name": "West Shewrapara (Olirtek) Expr",
+            "address": "Adarsha villa,368/6/A, Oli Mia",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F076",
+            "name": "Kalachadpur, Norda  Express Ou",
+            "address": "KA 24/4, Kalachadpur, Gulshan",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F077",
+            "name": "Mawna  Express Outlet",
+            "address": "Billal Master Super Market , M",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F078",
+            "name": "Khilgaon Ansar HQ Express outl",
+            "address": "Holding : 286, Block : C, Khil",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F079",
+            "name": "Shimultali Express outlet",
+            "address": "JL No-26 Road: Shimultali, Po",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F080",
+            "name": "Badda Post Road Express outlet",
+            "address": "Plot-La 54,Road- Moddho Badda,",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F081",
+            "name": "Board Bazar , GAZIPUR Express",
+            "address": "1992, Mirbox Market, Battala R",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F082",
+            "name": "Dakshinkhan KC Plaza Outlet",
+            "address": "2620, K C Plaza, Noapara, Daks",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F083",
+            "name": "Sylhet Golapganj Outlet",
+            "address": "Zulekha Mansion, Golapganj-Dha",
+            "district": "Sylhet"
+      },
+      {
+            "code": "F084",
+            "name": "Uttara Sector 7 Express Outlet",
+            "address": "Holding/ House No:11, Road No:",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F085",
+            "name": "Uttar Kazipara Outlet",
+            "address": "House No:385/1, Uttar Kazipara",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F086",
+            "name": "Narinda Outlet",
+            "address": "17 Dayem Tower, Narinda Road,",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F087",
+            "name": "Savar New Market Outlet",
+            "address": "Holding No: 3,Dhaka-Aricha Hig",
+            "district": "Savar"
+      },
+      {
+            "code": "F088",
+            "name": "Haziganj, Chandpur Outlet",
+            "address": "Haziganj Bazar, Haziganj",
+            "district": "Chandpur"
+      },
+      {
+            "code": "F089",
+            "name": "Mohammadia Housing Society Out",
+            "address": "House No: 188, Road No: 7, Moh",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F090",
+            "name": "Shafipur Heramoti Tower Outlet",
+            "address": "Hiramoti Tower, Shafipur Bazar",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F091",
+            "name": "Sirajganj Shahid Sarwardi Road",
+            "address": "Holding No:864-865, Shahid Sar",
+            "district": "Sirajganj"
+      },
+      {
+            "code": "F092",
+            "name": "Noakhali Maijdee Court Outlet",
+            "address": "Holding No:648, Ahsan Bhaban,",
+            "district": "Noakhali Sadar"
+      },
+      {
+            "code": "F093",
+            "name": "Faridpur Jhiltuli Outlet",
+            "address": "Holding No:29/D, Abdul Karim M",
+            "district": "Faridpur"
+      },
+      {
+            "code": "F094",
+            "name": "Mymensingh Masterbari Outlet",
+            "address": "Jamirdiya, Hobirbari,Bhaluka",
+            "district": "Mymensingh"
+      },
+      {
+            "code": "F095",
+            "name": "Kustia Shapla Chattar Outlet",
+            "address": "Thanapara( Panchrastar Morr) S",
+            "district": "Kustia"
+      },
+      {
+            "code": "F096",
+            "name": "Tangail Main Road Outlet",
+            "address": "264 Holding:264, Main Road",
+            "district": "Tangail"
+      },
+      {
+            "code": "F097",
+            "name": "Rangpur Shaymoli Outlet",
+            "address": "Mouza:Vouge,Thana: Kotowali,Ra",
+            "district": "Rangpur"
+      },
+      {
+            "code": "F098",
+            "name": "Lalbagh Outlet",
+            "address": "26 Haronath Ghosh Road,Lalbagh",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F099",
+            "name": "Manikganj Royal Tower Outlet",
+            "address": "Holding : 193,194 Chandni Roya",
+            "district": "Manikganj"
+      },
+      {
+            "code": "F100",
+            "name": "CTG Agrabad Hajeepara Outlet",
+            "address": "1557,Uttar Haijeepara,Access R",
+            "district": "Chattaogram"
+      },
+      {
+            "code": "F101",
+            "name": "Gazipur Bonmala Road outlet",
+            "address": "Mini super Market, Thana Tongi",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F102",
+            "name": "Ashuganj Bazar Road Outlet",
+            "address": "Dag NO-455, Khation no: 2273,C",
+            "district": "Bhahmanbaria"
+      },
+      {
+            "code": "F103",
+            "name": "Gazipur Konabari outlet",
+            "address": "Plot NO-A-146(P)-A-147(P) Kona",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F104",
+            "name": "Bhairab Bus Stand  Outlet",
+            "address": "Holding No: 1510-00, Kamolpur,",
+            "district": "Kishoreganj"
+      },
+      {
+            "code": "F105",
+            "name": "Narsingdi Judge Court Road out",
+            "address": "House: 53/2, Bilashdi, Thana:",
+            "district": "Narsingdi"
+      },
+      {
+            "code": "F106",
+            "name": "Azampur Railgate outlet",
+            "address": "Holding: 225, Monir Tower, Aza",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F107",
+            "name": "CTG Chandgaon Housing Society",
+            "address": "Road No:05, Block:A, R/A,Chand",
+            "district": "Chattogram"
+      },
+      {
+            "code": "F108",
+            "name": "Lalbagh  Road Outlet",
+            "address": "House: 50, Lalbagh",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F109",
+            "name": "Hazaribagh Outlet",
+            "address": "Holding No: 33, Nilamber saha",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F110",
+            "name": "Gopalganj College Road Outlet",
+            "address": "Holding No: 163, College road,",
+            "district": "Gopalganj"
+      },
+      {
+            "code": "F111",
+            "name": "New Eskaton Outlet",
+            "address": "224/1, New Eskaton, Dilu road",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F112",
+            "name": "South Banasree-2 Outlet",
+            "address": "H/2, Road: South Banasree Mai",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F113",
+            "name": "Barisal Bogura Road Outlet",
+            "address": "Shitlakhola mor, Thana: Barish",
+            "district": "Barishal"
+      },
+      {
+            "code": "F114",
+            "name": "Srimangal  Moulavi Bazar Outle",
+            "address": "Kador ali tower, Habiganj road",
+            "district": "MoulaviBazar"
+      },
+      {
+            "code": "F115",
+            "name": "Habiganj Kalibari Road Outlet",
+            "address": "Arash building, Mouza: Sultanm",
+            "district": "Habiganj"
+      },
+      {
+            "code": "F116",
+            "name": "Mymenshingh Railroad Outlet",
+            "address": "Gangginar par, Nurjahan Comple",
+            "district": "Mymenshingh"
+      },
+      {
+            "code": "F117",
+            "name": "Armanitola outlet",
+            "address": "Post: Babu Bazar, Lalbagh",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F118",
+            "name": "Mirpur 2 Outlet",
+            "address": "Plot No: 78, Mirpur Main Road,",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F119",
+            "name": "Memberbari Outlet",
+            "address": "Memberbari, Hazi market, Bhaba",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F120",
+            "name": "Baipal RMST Tower Outlet",
+            "address": "Dag No:213, Baipal Bus Stand,",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F121",
+            "name": "Aftabnagar Outlet",
+            "address": "plot A-1, 3, 5 main road, nort",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F122",
+            "name": "Natun Bazar Outlet",
+            "address": "S A Dag NO: 9132, 9174, Notun",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F123",
+            "name": "Jashore Rasel Chottar Outlet",
+            "address": "Holding no: 1453, Rail Road, S",
+            "district": "Jashore"
+      },
+      {
+            "code": "F124",
+            "name": "West Shewrapara Wasa Road Outl",
+            "address": "232, Haque bhaban, Wasa road,",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F125",
+            "name": "Thakurgaon Kalibari Outlet",
+            "address": "Bango Bandhu Sarok, Thana: Tha",
+            "district": "Thakurgaon"
+      },
+      {
+            "code": "F126",
+            "name": "Mirpur Kalshi Outlet",
+            "address": "B.S dag no: 31206 Mouza: Baun",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F127",
+            "name": "Bajitpur Kishorgonj Outlet",
+            "address": "Holding:1602-02, Jahirul Islam",
+            "district": "Kishorganj"
+      },
+      {
+            "code": "F128",
+            "name": "Nababgonj Bagmara Outlet",
+            "address": "Dag no: 86, Fatema Plaza, Bagm",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F129",
+            "name": "Daulatpur  Outlet",
+            "address": "Plot No: 34, Holding No: 0820-",
+            "district": "Khulna"
+      },
+      {
+            "code": "F130",
+            "name": "West Kazipara Central Mosque R",
+            "address": "697/2, West Kazipara, Mirpur,",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F131",
+            "name": "Dinajpur Ganshtola Outlet",
+            "address": "Holding No: 490, Modern Mor, G",
+            "district": "Dinajpur"
+      },
+      {
+            "code": "F132",
+            "name": "Konapara Demra Outlet",
+            "address": "Holding: 19, Vogair para, Kona",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F133",
+            "name": "Natore Outlet",
+            "address": "Holding No : 402, Mokbul Plaza",
+            "district": "Natore"
+      },
+      {
+            "code": "F134",
+            "name": "Dhaka Uddan Outlet",
+            "address": "Dhaka Uddan, R/A, Mohammadpur,",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F135",
+            "name": "Charpara Mymenshingh Outlet",
+            "address": "Holding: 13/C, Purahitpara, Ro",
+            "district": "Mymenshingh"
+      },
+      {
+            "code": "F136",
+            "name": "South Sastapur Outlet",
+            "address": "Road NO: 04, Lane: 01, South S",
+            "district": "Narayanganj"
+      },
+      {
+            "code": "F137",
+            "name": "Thana Road ,Savar Outlet",
+            "address": "Holding No: 116, Talbagh,",
+            "district": "Savar"
+      },
+      {
+            "code": "F138",
+            "name": "Chunkutia Outlet",
+            "address": "Chunkutia Chowrasta, Begunbari",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F139",
+            "name": "Siddirganj  Outlet",
+            "address": "East Shaheeb para, (Mijmiji) T",
+            "district": "Narayanganj"
+      },
+      {
+            "code": "F140",
+            "name": "Narail Outlet",
+            "address": "Narail",
+            "district": "Narail"
+      },
+      {
+            "code": "F141",
+            "name": "Joypara Dohar Outlet",
+            "address": "Dewan tower, Joypara Bazar, Th",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F142",
+            "name": "Uttar Khapara Tongi Outlet",
+            "address": "Nishat Nagar, Thana: Tongi",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F143",
+            "name": "Chhatak Outlet",
+            "address": "Mondulivog, Mohini, Thana: Chh",
+            "district": "Sunamganj"
+      },
+      {
+            "code": "F144",
+            "name": "Mirpur-14 Outlet",
+            "address": "D.N.C.C-7, Ibrahimpur, Dhaka C",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F145",
+            "name": "Kashimpur Outlet",
+            "address": "Gazipur City Corporation,Thana",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F146",
+            "name": "Jamgora Outlet",
+            "address": "Khadiza Begum Shopping Complex",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F147",
+            "name": "Ranabhola Outlet",
+            "address": "Holding No: 13/1, Sheikh Vila,",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F148",
+            "name": "Ishwardi Outlet",
+            "address": "Sahapur, Ruppur Notun hat Mor,",
+            "district": "Pabna"
+      },
+      {
+            "code": "F149",
+            "name": "Savar Polli Bidduth Outlet",
+            "address": "Eidgah Road,Post:Savar Cantonm",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F150",
+            "name": "Munshignaj Outlet",
+            "address": "Sadar Hospital Road,Mushiganj",
+            "district": "Mushiganj"
+      },
+      {
+            "code": "F151",
+            "name": "Muktarbari Road, Auchpara Outl",
+            "address": "Muktarbari Road, Auchpara, Gaz",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F152",
+            "name": "Kapasia Outlet",
+            "address": "Hiron Mansion , Banarhowla, Po",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F153",
+            "name": "Faridganj Outlet",
+            "address": "Holding No:716, Faridganj Baza",
+            "district": "Chandpur"
+      },
+      {
+            "code": "F154",
+            "name": "Chandpur Outlet",
+            "address": "Holding No:200,DJ Tower ,Shahe",
+            "district": "Chandpur"
+      },
+      {
+            "code": "F155",
+            "name": "Tangail Mirzapur Outlet",
+            "address": "Holding No:918,College Road,Mi",
+            "district": "Tangail"
+      },
+      {
+            "code": "F156",
+            "name": "Narshingdi Madhobdi Bazar Outl",
+            "address": "Atif Tower, South Birampur, Ma",
+            "district": "Narshingdi"
+      },
+      {
+            "code": "F157",
+            "name": "Katiadi Kishorgonj  Outlet",
+            "address": "Mini Market, C & B Road,Kotiad",
+            "district": "Kishoreganj"
+      },
+      {
+            "code": "F158",
+            "name": "Khulna Sonadanga Outlet",
+            "address": "Holding No: 123, 124, Majid Sa",
+            "district": "Khulna"
+      },
+      {
+            "code": "F159",
+            "name": "Sylhet Goalabazar Outlet",
+            "address": "Shop no:01,Hazi Nasib Ullah Ma",
+            "district": "Sylhet"
+      },
+      {
+            "code": "F160",
+            "name": "Mirpur Ahmednagar Outlet",
+            "address": "Holding No: 367/E, Ahmednagar,",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F161",
+            "name": "Bhaluka Outlet",
+            "address": "Bhaluka Panch Raster Mor, Bhal",
+            "district": "Mymensingh"
+      },
+      {
+            "code": "F162",
+            "name": "Uttarkhan Mazar Chowrasta Outl",
+            "address": "Zaman Tower,Uttarkhan Mazar Ch",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F163",
+            "name": "Mymensingh Trishal Outlet",
+            "address": "Dorirampur Bazar, Trishal",
+            "district": "Mymensingh"
+      },
+      {
+            "code": "F164",
+            "name": "Matikata Outlet",
+            "address": "Holding No:71, Matikata Road,",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F165",
+            "name": "Laksham Outlet",
+            "address": "Daulatganj Bazar,Chouddagram R",
+            "district": "Cumilla"
+      },
+      {
+            "code": "F166",
+            "name": "Sylhet Bishwanath Outlet",
+            "address": "Banoful, Puran Bazar Bishwanat",
+            "district": "Sylhet"
+      },
+      {
+            "code": "F167",
+            "name": "Narayanganj Bandar Outlet",
+            "address": "Holding No:01, Amin R/A,Bandar",
+            "district": "Narayanganj"
+      },
+      {
+            "code": "F168",
+            "name": "Sherpur Outlet",
+            "address": "Sherpur Paurasava",
+            "district": "Sherpur"
+      },
+      {
+            "code": "F169",
+            "name": "Eastern Housing , Mirpur Outle",
+            "address": "Block: ka, Section: 08, Duarip",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F170",
+            "name": "Balurchar ,Sirajdikhan Outlet",
+            "address": "Sirajdikhan",
+            "district": "Munshiganj"
+      },
+      {
+            "code": "F171",
+            "name": "West Agargaon Outlet",
+            "address": "House No: 221, West Agargaon,",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F172",
+            "name": "Banashree E Block outlet",
+            "address": "Banashree, Rampura",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F173",
+            "name": "Ashulia Outlet",
+            "address": "Thana: Ashulia, District: Dhak",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F174",
+            "name": "Kushtia  Bheramara Outlet",
+            "address": "Thana: Bheramara, District: Ku",
+            "district": "Kushtia"
+      },
+      {
+            "code": "F175",
+            "name": "Gazipur Chowrasta Outlet",
+            "address": "), Chandona Chowrasta Gazipur,",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F176",
+            "name": "Narayanganj Debhog Outlet",
+            "address": "West Debhog , Nagbarir Mor, Th",
+            "district": "Narayanganj"
+      },
+      {
+            "code": "F177",
+            "name": "Kishorgonj Station Road Outlet",
+            "address": "Station Road,Kishoreganj Sadar",
+            "district": "Kishoreganj"
+      },
+      {
+            "code": "F178",
+            "name": "Mission Road, Chandpur Outlet",
+            "address": "Hiroshima Complex , Mission Ro",
+            "district": "Chandpur"
+      },
+      {
+            "code": "F179",
+            "name": "Tangail Sabalia  Outlet",
+            "address": "Holding No: 085400, Thana: Tan",
+            "district": "Tangail"
+      },
+      {
+            "code": "F180",
+            "name": "Mohammadpur Bosila Outlet",
+            "address": "Thana: Mohammapur",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F181",
+            "name": "Feni Chhagalnaiya Outlet",
+            "address": "Chhagalnaiya Bazar,Chhagalnaiy",
+            "district": "Feni"
+      },
+      {
+            "code": "F182",
+            "name": "Hemayetpur Outlet",
+            "address": "House-579, South Shampur, Hema",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F183",
+            "name": "CTG Lohagara Outlet",
+            "address": "Sikder Center , Lohagara",
+            "district": "Chattogram"
+      },
+      {
+            "code": "F184",
+            "name": "Gazipur Monipur Bazar Outlet",
+            "address": "Monipur Bazar,Gazipur Sadar",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F185",
+            "name": "Satkhira Outlet",
+            "address": "Deser Mia Tower,South Polaspol",
+            "district": "Satkhira"
+      },
+      {
+            "code": "F186",
+            "name": "CTG Cornel Hat Outlet",
+            "address": "Ward No-10,Thana: Akbarshah",
+            "district": "Chottogram"
+      },
+      {
+            "code": "F187",
+            "name": "Narayanganj  Bhulta Outlet",
+            "address": "Gawsia,Bhulta , Rupganj",
+            "district": "Narayanganj"
+      },
+      {
+            "code": "F188",
+            "name": "Patuakhali  Subidkhali Outlet",
+            "address": "Shop No:A-7-10, Subidkhali, Mi",
+            "district": "Patuakhali"
+      },
+      {
+            "code": "F189",
+            "name": "Sunamganj Jagannthpur Outlet",
+            "address": "Minara Market, Holding no-17,",
+            "district": "Sunamganj"
+      },
+      {
+            "code": "F190",
+            "name": "Courtbari Outlet",
+            "address": "Ward No-47, Courtbari ,Dakkhin",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F191",
+            "name": "Jhalakathi Outlet",
+            "address": "Holding-52, Kummar Patti",
+            "district": "Jhalakathi"
+      },
+      {
+            "code": "F192",
+            "name": "Bhandaria Outlet",
+            "address": "Reserve Pukurpar,Bhandaria",
+            "district": "Pirojpur"
+      },
+      {
+            "code": "F193",
+            "name": "CTG Raozan Outlet",
+            "address": "Shah Lotif Road,Munshir Ghata,",
+            "district": "Chattogram"
+      },
+      {
+            "code": "F194",
+            "name": "Zinzira Outlet",
+            "address": "Zinzira Bus Stand, Keraniganj",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F195",
+            "name": "Gazipur Barabari Outlet",
+            "address": "Barabari ,Gacha",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F196",
+            "name": "Kurigram Outlet",
+            "address": "Old registry office para,Kurig",
+            "district": "Kurigam"
+      },
+      {
+            "code": "F197",
+            "name": "Lakshmipur Outlet",
+            "address": "Banchanagar, Lakshmipur Sadar",
+            "district": "Lakshmipur"
+      },
+      {
+            "code": "F198",
+            "name": "Chauddagram Outlet",
+            "address": "Chauddagram Bazar,Chauddagram",
+            "district": "Cumilla"
+      },
+      {
+            "code": "F199",
+            "name": "NG Hirajheel Outlet",
+            "address": "224, Hirajheel Painadi, Shiddh",
+            "district": "Narayanganj"
+      },
+      {
+            "code": "F200",
+            "name": "Gazipur Bangla Bazar Outlet",
+            "address": "Gazipur City Center,Banglabaza",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F201",
+            "name": "Barguna Outlet",
+            "address": "Blue Sky Tower,Sadar Road",
+            "district": "Barguna"
+      },
+      {
+            "code": "F202",
+            "name": "Shanarpar Siddhirganj Outlet",
+            "address": "Sanar, Nimay Kashari,Siddhirga",
+            "district": "Narayanganj"
+      },
+      {
+            "code": "F203",
+            "name": "Chapainawbganj Outlet",
+            "address": "Chapainawabganj Sadar",
+            "district": "Chapainawabganj"
+      },
+      {
+            "code": "F204",
+            "name": "Panchagar Outlet",
+            "address": "Tetulia Road,Islambagh, Pancha",
+            "district": "Panchagarh"
+      },
+      {
+            "code": "F205",
+            "name": "Bogura Shepur Outlet",
+            "address": "Holding No -1760, Bakal Bazar",
+            "district": "Bogura"
+      },
+      {
+            "code": "F206",
+            "name": "Tangail Karatia Outlet",
+            "address": "Licho Bagan Road, Karatia Baza",
+            "district": "Tangail"
+      },
+      {
+            "code": "F207",
+            "name": "Pabna Tebunia Bazar Outlet",
+            "address": "Tebunia Bazar, Pabna Sadar",
+            "district": "Pabna"
+      },
+      {
+            "code": "F208",
+            "name": "Jessore Arabpur Outlet",
+            "address": "Post: Jessore Sadar, Thana: Je",
+            "district": "Jessore"
+      },
+      {
+            "code": "F209",
+            "name": "Shariatpur Outlet",
+            "address": "Rupnagar Residential Area, Pal",
+            "district": "Shariatpur"
+      },
+      {
+            "code": "F210",
+            "name": "Nagar Bhaban Rajshahi Outlet",
+            "address": "House No : D-98,Dorikorbona,Bo",
+            "district": "Rajshahi"
+      },
+      {
+            "code": "F211",
+            "name": "Patuakhali  Outlet",
+            "address": ", Jubilee School Road ( Puran",
+            "district": "Patuakhali"
+      },
+      {
+            "code": "F212",
+            "name": "Kurigram Nageswari Outlet",
+            "address": "KB Road, Nageswari",
+            "district": "Kurigam"
+      },
+      {
+            "code": "F213",
+            "name": "Keraniganj Oil Ghat Outlet",
+            "address": "Pervin Plaza, Oil Ghat,South K",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F214",
+            "name": "Alaul Avenue ,Uttara 6- Outlet",
+            "address": "House-52, Alaul Avenue,Sector",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F215",
+            "name": "Rahimanagar Kachua Outlet",
+            "address": "North Side of Moddho Brdige ,",
+            "district": "Chandpur"
+      },
+      {
+            "code": "F216",
+            "name": "Birampur Dinajpur Outlet",
+            "address": "Main Road, Puraton Bazar, Bira",
+            "district": "Dinajpur"
+      },
+      {
+            "code": "F217",
+            "name": "Seed Store Mymensing Outlet",
+            "address": "Habir Bari, Seed Store, Bhaluk",
+            "district": "Mymensing"
+      },
+      {
+            "code": "F218",
+            "name": "Rupatoli Barishal",
+            "address": "Post : Rupatoli Housing , Bari",
+            "district": "Barishal"
+      },
+      {
+            "code": "F219",
+            "name": "Magura Outlet",
+            "address": "M.R. Road ,Magura Sadar",
+            "district": "Magura"
+      },
+      {
+            "code": "F220",
+            "name": "Gopalganj Kashiani Outlet",
+            "address": "Kashiani Bazar",
+            "district": "Gopalganj"
+      },
+      {
+            "code": "F221",
+            "name": "Kalibari Shaharasti Chandpur O",
+            "address": "Kalibari , Shaharasti",
+            "district": "Chandpur"
+      },
+      {
+            "code": "F222",
+            "name": "Signboard Gazipur Outlet",
+            "address": "",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F223",
+            "name": "Pirojpur Outlet",
+            "address": "Holding :103/2, Pirojpur Sadar",
+            "district": "Pirojpur"
+      },
+      {
+            "code": "F224",
+            "name": "Road 12, Nikunja 2 Outlet",
+            "address": "House No 26 , Road 12 , Nikunj",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F225",
+            "name": "Debhata Satkhira Outlet",
+            "address": "Rezwan Tower, Sakhipur Parulia",
+            "district": "Satkhira"
+      },
+      {
+            "code": "F226",
+            "name": "Rayerbagh Outlet",
+            "address": "Sentu Market ( Zerin Tower), R",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F227",
+            "name": "Muktagasa Mymensingh Outlet",
+            "address": "Muktagasa Old Bus Stand ,Mukta",
+            "district": "Mymensingh"
+      },
+      {
+            "code": "F228",
+            "name": "Dhonia Outlet",
+            "address": "Main Road Dhonia , Kadamtali",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F229",
+            "name": "Sarulia Demra Outlet",
+            "address": "Sarulia , Demra",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F230",
+            "name": "Chunarughat Habiganj Outlet",
+            "address": "Dag no: 1351, Mouja : Borail,",
+            "district": "Habiganj"
+      },
+      {
+            "code": "F231",
+            "name": "Shibchar Madaripur Outlet",
+            "address": "Mouza: Guatola, Shibchar Bazar",
+            "district": "Madaripur"
+      },
+      {
+            "code": "F232",
+            "name": "Nandail Mymensingh Outlet",
+            "address": "Holding 326, Nandail Bazar,",
+            "district": "Mymensingh"
+      },
+      {
+            "code": "F233",
+            "name": "Dholaipar Outlet",
+            "address": "Global Tower,Dhania,Kadamtoli",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F234",
+            "name": "Kachua Chandpur Outlet",
+            "address": "West Side of Porashava Market",
+            "district": "Chandpur"
+      },
+      {
+            "code": "F235",
+            "name": "Radio Colony Savar Outlet",
+            "address": "Radio colony,Jaleshwar,Savar",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F236",
+            "name": "Noapara Jessore Outlet",
+            "address": "Holding 480,Khulna main road,",
+            "district": "Jessore"
+      },
+      {
+            "code": "F237",
+            "name": "Madhupur Tangail Outlet",
+            "address": "Dag No: 321, Khatian: 89, JL N",
+            "district": "Tangail"
+      },
+      {
+            "code": "F238",
+            "name": "Sakhipur Tangail Outlet",
+            "address": "Sakhipur Girls School Road, Sa",
+            "district": "Tangail"
+      },
+      {
+            "code": "F239",
+            "name": "Bogura  Uposhahar Outlet",
+            "address": "Bogura Sadar",
+            "district": "Bogura"
+      },
+      {
+            "code": "F240",
+            "name": "Mugda Hospital Road Outlet",
+            "address": "Jamjam Tower, Uttar Mugda",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F241",
+            "name": "Bakshiganj Jamalpur Outlet",
+            "address": "Simar Par, Mallibagh Mor, Baks",
+            "district": "Jamalpur"
+      },
+      {
+            "code": "F242",
+            "name": "Reayerbazar Outlet",
+            "address": "Hashem Khan Road, Rayerbazar,",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F243",
+            "name": "Mohonganj Netrokona Outlet",
+            "address": "Holding No: 0441/01, Tenga Par",
+            "district": "Netrokona"
+      },
+      {
+            "code": "F244",
+            "name": "Picture Place Khulna Outlet",
+            "address": "Picture Place Mor  , Khulna Sa",
+            "district": "Khulna"
+      },
+      {
+            "code": "F245",
+            "name": "Moulovibazar Sherpur Outlet",
+            "address": "Sherpur Highway Road,Sherpur",
+            "district": "MoulaviBazar"
+      },
+      {
+            "code": "F246",
+            "name": "Mirer Bazar Gazipur Outlet",
+            "address": "Mirer Bazar",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F247",
+            "name": "Kolapara Patuakhali Outlet",
+            "address": "Kolapara",
+            "district": "Patuakhali"
+      },
+      {
+            "code": "F248",
+            "name": "NG Araihazar Outlet",
+            "address": "Araihazar",
+            "district": "Narayanganj"
+      },
+      {
+            "code": "F249",
+            "name": "Baro Dewraa Tongi  Outlet",
+            "address": "Vadam Road",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F250",
+            "name": "Kamarpara Outlet",
+            "address": "",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F251",
+            "name": "Mathbaria Pirojpur Outlet",
+            "address": "Mathbaria",
+            "district": "Pirojpur"
+      },
+      {
+            "code": "F252",
+            "name": "Diabetics Mor Dinajpur Outlet",
+            "address": "Dinajpur Sadar",
+            "district": "Dinajpur"
+      },
+      {
+            "code": "F253",
+            "name": "CTG Sitakunda Outlet",
+            "address": "Secure City , Sitakunda",
+            "district": "Chattagram"
+      },
+      {
+            "code": "F254",
+            "name": "Dattabari Bogura Outlet",
+            "address": "Dattabari , Bogura Sadar",
+            "district": "Bogura"
+      },
+      {
+            "code": "F255",
+            "name": "Shahparan Sylhet Outlet",
+            "address": "Beside Shahparan Gate, Shahpar",
+            "district": "Sylhet"
+      },
+      {
+            "code": "F256",
+            "name": "Badda Joy Bangla Mor Outlet",
+            "address": "Joy Bangla Mor ,Badda",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F257",
+            "name": "Panchagar Boda  outlet",
+            "address": "JL No: 126, Boda, Thana: Boda",
+            "district": "Panchagarh"
+      },
+      {
+            "code": "F258",
+            "name": "Kholamora Keraniganj Outlet",
+            "address": "Kholamora Model town Medical R",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F259",
+            "name": "Jitu mia r mor Shylhet",
+            "address": "Jitu Miar Mor",
+            "district": "Sylhet"
+      },
+      {
+            "code": "F260",
+            "name": "Barishal-C&B Road Outlet",
+            "address": "C&B 1 no Pull, Barishal City C",
+            "district": "Barishal"
+      },
+      {
+            "code": "F261",
+            "name": "Majhira Bogura Outlet",
+            "address": "Majhira Bisshaw Road, Majhira",
+            "district": "Bogura"
+      },
+      {
+            "code": "F262",
+            "name": "Gudaraghat Mirpur Outlet",
+            "address": "Block : C ,Gudaraghat, Shah Al",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F263",
+            "name": "Lalmai Cumilla  Outlet",
+            "address": "Dakhin Bazar Road, Lalmai",
+            "district": "Cumilla"
+      },
+      {
+            "code": "F264",
+            "name": "Chawk Bazar Cumilla  Outlet",
+            "address": "Chawk Bazar, Thana : Kotwali,",
+            "district": "Cumilla"
+      },
+      {
+            "code": "F265",
+            "name": "Tanore Rajshahi Outlet",
+            "address": "JL No: 144, Mouza: Tanore, Tha",
+            "district": "Rajshahi"
+      },
+      {
+            "code": "F266",
+            "name": "Pirganj Rangpur Outlet",
+            "address": "Pirganj Busstand , Pirganj",
+            "district": "Rangpur"
+      },
+      {
+            "code": "F267",
+            "name": "Chandpur Sachar  Outlet",
+            "address": "Khation No: 4073, Dhaka - Hazi",
+            "district": "Chandpur"
+      },
+      {
+            "code": "F268",
+            "name": "Ghatail Tangail Outlet",
+            "address": "Khation No: 622/585, Thana: Gh",
+            "district": "Tangail"
+      },
+      {
+            "code": "F269",
+            "name": "Bandarban Outlet",
+            "address": "Dokan No 1-8, Bandarban Sadar",
+            "district": "Bandarban"
+      },
+      {
+            "code": "F270",
+            "name": "Khalpar Narsingdi Outlet",
+            "address": "Brahmandi, Narsingdi Sadar",
+            "district": "Narsingdi"
+      },
+      {
+            "code": "F271",
+            "name": "Thakurgaon Pirganj Outlet",
+            "address": "FR Tower, Raghunathpur, Pirgan",
+            "district": "Thakurgaon"
+      },
+      {
+            "code": "F272",
+            "name": "Chakaria Coxs'Bazar Outlet",
+            "address": "Holding No: 1143,  Janata Shop",
+            "district": "Coxs'Bazar"
+      },
+      {
+            "code": "F273",
+            "name": "Nandigram Bogura Outlet",
+            "address": "Dag no:938, Khatian: 270, Nand",
+            "district": "Bogura"
+      },
+      {
+            "code": "F274",
+            "name": "Borhanuddin Bhola Outlet",
+            "address": "Holding No: 50, Borhanuddin",
+            "district": "Bhola"
+      },
+      {
+            "code": "F275",
+            "name": "R.K . Mission Road Outlet",
+            "address": "R. K. Mission Road,Wari",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F276",
+            "name": "Babar Road Outlet",
+            "address": "Mohammadpur Colony",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F277",
+            "name": "Ramganj Outlet",
+            "address": "Ramganj Pilot  Scholl Mor, Ram",
+            "district": "Lakshmipur"
+      },
+      {
+            "code": "F278",
+            "name": "Daganbhuiyan Outlet",
+            "address": "Bashur Haat Road,Dagonbhuiyan",
+            "district": "Feni"
+      },
+      {
+            "code": "F279",
+            "name": "Chuddagram Cumilla Outlet",
+            "address": "Chuddagram Bazar",
+            "district": "Cumilla"
+      },
+      {
+            "code": "F280",
+            "name": "Merajnagar Outlet",
+            "address": "Merajnagar Super Market, Meraj",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F281",
+            "name": "Traffic Mor Pabna Outlet",
+            "address": "Pabna Sadar",
+            "district": "Pabna"
+      },
+      {
+            "code": "F282",
+            "name": "Ullipur Kurigram Outlet",
+            "address": "Ulipur , Kurigram",
+            "district": "Kurigram"
+      },
+      {
+            "code": "F283",
+            "name": "Salna Gazipur Outlet",
+            "address": "JL No: 30, Mouza: Dakshin Saln",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F284",
+            "name": "Court Bazar Rajshahi Outlet",
+            "address": "Thana: Rajshahi Sadar",
+            "district": "Rajshahi"
+      },
+      {
+            "code": "F285",
+            "name": "Amtali Barguna  Outlet",
+            "address": "Hospital Road, Amtali Municipa",
+            "district": "Barguna"
+      },
+      {
+            "code": "F286",
+            "name": "Rajbari Outlet",
+            "address": "Jl no: 156, Sreepur ,Rajbari S",
+            "district": "Rajbari"
+      },
+      {
+            "code": "F287",
+            "name": "Lalmonirhat Outlet",
+            "address": ", Mouza, Khoddho Saptana,Lalmo",
+            "district": "Lalmonirhat"
+      },
+      {
+            "code": "F288",
+            "name": "Bosila Uttarpara Outlet",
+            "address": "Bosila Uttar para , Mohammadpu",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F289",
+            "name": "Teknaf Outlet",
+            "address": "Dokan No : 1,2,3, Old Busstand",
+            "district": "Coxsbazar"
+      },
+      {
+            "code": "F290",
+            "name": "Pakundia Outlet",
+            "address": "Lokkhia, Pakundia",
+            "district": "Kishoreganj"
+      },
+      {
+            "code": "F291",
+            "name": "Ishwardi Bazar Road  Outlet",
+            "address": "Khatian No: SA-171, RS-934, JL",
+            "district": "Pabna"
+      },
+      {
+            "code": "F292",
+            "name": "Mijmiji NG Outlet",
+            "address": "Mijmiji, Poschimpara, Siddirga",
+            "district": "Narayanganj"
+      },
+      {
+            "code": "F293",
+            "name": "Kadamtali Outlet",
+            "address": "Mouza: Jinzira JL no: 81, Kada",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F294",
+            "name": "Kalkini Madaipur Outlet",
+            "address": "Madaripur.Bastola, Kalkini ( B",
+            "district": "Madaripur"
+      },
+      {
+            "code": "F295",
+            "name": "Bonpara Natore Outlet",
+            "address": "Bonpara Bazar, Bonpara,",
+            "district": "Natore"
+      },
+      {
+            "code": "F296",
+            "name": "Janata Mor Faridpur  Outlet",
+            "address": "Janata Mor, Faridpur Sadar,",
+            "district": "Faridpur"
+      },
+      {
+            "code": "F297",
+            "name": "Gorgoria Masterbari  Outlet",
+            "address": "Gorgoria Masterbari ,Gliarchal",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F298",
+            "name": "Rohitpur Outlet",
+            "address": "Ruhitpur , Keraniganj,",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F299",
+            "name": "West Merul Badda outlet",
+            "address": "West Merul Badda , Badda ,",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F300",
+            "name": "Zila Sarani Mor Kishoreganj Ou",
+            "address": ", Zila Sarani Mor , Kishoregan",
+            "district": "Kishoreganj"
+      },
+      {
+            "code": "F301",
+            "name": "Bou Bazar Kishorganj  Outlet",
+            "address": "College road, Kishoreganj Sada",
+            "district": "Kishoreganj"
+      },
+      {
+            "code": "F302",
+            "name": "Panichatra  Madaripur Outlet",
+            "address": "Panichatra, Madaripur Sadar",
+            "district": "Madaripur"
+      },
+      {
+            "code": "F303",
+            "name": "Jahuri Mohalla Mohammadpur Out",
+            "address": "House no: 30/11, Jahuri Mohall",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F304",
+            "name": "North Golapbagh  Outlet",
+            "address": "Holding no: 25/5/A, Brahmanchr",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F305",
+            "name": "Kurpur Netrokona Outlet",
+            "address": "Holding No: 694; Kurpar",
+            "district": "Netrokona"
+      },
+      {
+            "code": "F306",
+            "name": "Gobindaganj Gaibandha Outlet",
+            "address": "College Road, Bujrukbolia, Col",
+            "district": "Gaibandha"
+      },
+      {
+            "code": "F307",
+            "name": "Gournadi Barishal Outlet",
+            "address": "Upazilla Gate, Gournadi , Bari",
+            "district": "Barishal"
+      },
+      {
+            "code": "F308",
+            "name": "Abu Naser Mor Khulna Outlet",
+            "address": "Abu Naser Hospital Mor , Boyra",
+            "district": "Khulna"
+      },
+      {
+            "code": "F309",
+            "name": "Hamid Road Pabna Outlet",
+            "address": "Abdul Hamid Road, Pabna",
+            "district": "Pabna"
+      },
+      {
+            "code": "F310",
+            "name": "Biconmor Rangpur Outlet",
+            "address": "97/1, College Road, Biacon Mor",
+            "district": "Rangpur"
+      },
+      {
+            "code": "F311",
+            "name": "Shafimiar Bazar Jamalpur Outle",
+            "address": "548 Santibagh, Shafimiar Bazar",
+            "district": "Jamalpur"
+      },
+      {
+            "code": "F312",
+            "name": "Beltola Jail  Road  Jessore Ou",
+            "address": "Beltola Jail Road, Jessore",
+            "district": "Jessore"
+      },
+      {
+            "code": "F313",
+            "name": "Nimai Kasari Bazar , Shanarpar",
+            "address": "Nimaikasari Bazar, Sanarpar",
+            "district": "Narayanganj"
+      },
+      {
+            "code": "F314",
+            "name": "Noyapara Bazar, Habiganj Outle",
+            "address": "Noypara Bazar , Madhabpur , Ha",
+            "district": "Habiganj"
+      },
+      {
+            "code": "F315",
+            "name": "Shajstaganj  Habiganj Outlet",
+            "address": "Station Road, Shaistaganj, Hab",
+            "district": "Habiganj"
+      },
+      {
+            "code": "F316",
+            "name": "Ramu Outlet",
+            "address": "Dokan 09-19 ,Ramu,Cox's Bazar",
+            "district": "Coxsbazar"
+      },
+      {
+            "code": "F317",
+            "name": "Mathbaria Pirojpur Outlet",
+            "address": "Sabujnagar, Mathbaria , Pirojp",
+            "district": "Pirojpur"
+      },
+      {
+            "code": "F318",
+            "name": "Atibazar Keraniganj  Outlet.",
+            "address": "Hall Road, Atibazar, Keranigan",
+            "district": "Madaripur"
+      },
+      {
+            "code": "F319",
+            "name": "Ganda Savar Outlet",
+            "address": "Ganda Bus Stand , Savar",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F320",
+            "name": "Keshorhat Rajshahi Outlet",
+            "address": "",
+            "district": "Rajshahi"
+      },
+      {
+            "code": "F321",
+            "name": "Chandrapur Bazar Shariatpur Ou",
+            "address": "Chandrapur Bazar",
+            "district": "Shariatpur"
+      },
+      {
+            "code": "F322",
+            "name": "Loaogora Narail Outlet",
+            "address": "Mouza: Lakshipasha, Thana road",
+            "district": "Narail"
+      },
+      {
+            "code": "F323",
+            "name": "Fulbari  Dinajpur Outlet",
+            "address": "West Gouripara , Fulbari",
+            "district": "Dinajpur"
+      },
+      {
+            "code": "F324",
+            "name": "Bhola Sadar Outlet",
+            "address": "Bhola Sadar",
+            "district": "Bhola"
+      },
+      {
+            "code": "F325",
+            "name": "F-Block, Eastern Housing Outle",
+            "address": "Eastern Housing Society, Mirpu",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F326",
+            "name": "Nabiganj Bazar ,Habiganj Outle",
+            "address": "Nabiganj Bazar,Nabiganj Munici",
+            "district": "Habiganj"
+      },
+      {
+            "code": "F327",
+            "name": "Wabda Road Rampura Outlet",
+            "address": "Wabda Road, Poschim Rampura",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F328",
+            "name": "Sreenagar Munshiganj Outlet",
+            "address": "Sreenagar Bazar",
+            "district": "Munshiganj"
+      },
+      {
+            "code": "F329",
+            "name": "Bhurungamari Kurigram Outlet",
+            "address": "Deed No: 4275",
+            "district": "Kurigram"
+      },
+      {
+            "code": "F330",
+            "name": "Radhanagar Pabna Outlet",
+            "address": "Holding : 1082/1, VIP Road, Ra",
+            "district": "Pabna"
+      },
+      {
+            "code": "F331",
+            "name": "Saidpur Nilphamari Outlet",
+            "address": "Dr. Jiyaul Haque Sarok, Saidpu",
+            "district": "Nilphamari"
+      },
+      {
+            "code": "F332",
+            "name": "Shapahar Naogaon Outlet",
+            "address": "Mouza: Joypur, Thana: Shapahar",
+            "district": "Naogaon"
+      },
+      {
+            "code": "F333",
+            "name": "Naohata Rajshahi Outlet",
+            "address": "Naohata Municipality, Poba",
+            "district": "Rajshahi"
+      },
+      {
+            "code": "F334",
+            "name": "Birganj Dinajpur Outlet",
+            "address": "Setabganj Road, Birganj Munici",
+            "district": "Dinajpur"
+      },
+      {
+            "code": "F335",
+            "name": "M A Jalil Sarak ,Barishal  Out",
+            "address": "Major M A Jalil Sarak",
+            "district": "Barishal"
+      },
+      {
+            "code": "F336",
+            "name": "DC Bridge  Madaripur Outlet",
+            "address": "DC Bridge , Madaripur Sadar",
+            "district": "Madaripur"
+      },
+      {
+            "code": "F337",
+            "name": "Gollamari Khulna Outlet",
+            "address": "Sher E Bangla Raod, Gollamari",
+            "district": "Khulna"
+      },
+      {
+            "code": "F338",
+            "name": "DB Road Gaibandha  Outlet",
+            "address": "DB Road, Gaibandha Sadar",
+            "district": "Gaibandha"
+      },
+      {
+            "code": "F339",
+            "name": "Setabganj Dinajpur Outlet",
+            "address": "Setabganj Municiplity",
+            "district": "Dinajpur"
+      },
+      {
+            "code": "F340",
+            "name": "Bangla Bazar Barishal Outlet",
+            "address": "Holding No: 728, Khadem Hossai",
+            "district": "Barishal"
+      },
+      {
+            "code": "F341",
+            "name": "Baunia Outlet",
+            "address": "Mouza: Bouinia, JL No: 01, Tha",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F342",
+            "name": "Cantonment Mor Mymenisingh Out",
+            "address": "Cantonment Mor, Mymenshingh Sa",
+            "district": "Mymensingh"
+      },
+      {
+            "code": "F343",
+            "name": "Akhaura B.Baria Outlet",
+            "address": "Kharompur Main Road, Akhaura",
+            "district": "B.baria"
+      },
+      {
+            "code": "F344",
+            "name": "Karimganj Keshorganj Outlet",
+            "address": "Karimganj Main Road, Karimganj",
+            "district": "Kishorganj"
+      },
+      {
+            "code": "F345",
+            "name": "Atharobari Mymensingh Outlet",
+            "address": "Atarabari, Ishwarganj",
+            "district": "Mymensingh"
+      },
+      {
+            "code": "F346",
+            "name": "Palbari Jessore Outlet",
+            "address": "Holding : 716/1, Shahid Mashiu",
+            "district": "Jessore"
+      },
+      {
+            "code": "F347",
+            "name": "Shibpur Narsingdi Outlet",
+            "address": "Holding : 187, Sadar Road Shib",
+            "district": "Narsingdi"
+      },
+      {
+            "code": "F348",
+            "name": "Court Bazar Ukhiya Outlet",
+            "address": "Court Bazar , Ukhiya",
+            "district": "Coxsbazar"
+      },
+      {
+            "code": "F349",
+            "name": "Monirampur Jessore Outlet",
+            "address": "Holding No: 727, Monirampur Ba",
+            "district": "Jessore"
+      },
+      {
+            "code": "F350",
+            "name": "Bhabaniganj Rajshahi Outlet",
+            "address": "Bhabaniganj, Bagmara",
+            "district": "Rajshahi"
+      },
+      {
+            "code": "F351",
+            "name": "Jafrabad Mohammadpur Outlet",
+            "address": "Dhaka North City Corporation",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F352",
+            "name": "Paterbag South Dhonia Outlet",
+            "address": "South Donia, Kadamtoli",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F353",
+            "name": "Salgaria Pabna Outlet",
+            "address": "Square Road, Pabna Sadar",
+            "district": "Pabna"
+      },
+      {
+            "code": "F354",
+            "name": "Bhederganj  Shariatpur Outlet",
+            "address": "Bhrdagganj Bazar, Bhedarganj",
+            "district": "Shariatpur"
+      },
+      {
+            "code": "F355",
+            "name": "Notullabad Barishal Outlet",
+            "address": "CNB Road, Barishal Sadar",
+            "district": "Barishal"
+      },
+      {
+            "code": "F356",
+            "name": "Chowgacha Jashore Outlet",
+            "address": "Chowgacha, Jashore",
+            "district": "Jashore"
+      },
+      {
+            "code": "F357",
+            "name": "Bagha Rajshahi Outlet",
+            "address": "Bagha Bazar, Bagha",
+            "district": "Rajshahi"
+      },
+      {
+            "code": "F358",
+            "name": "Gobindapur Bazar South Sonir A",
+            "address": "Gobindapur Bazar, South Shonir",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F359",
+            "name": "Pairachattar Jhenaidha Outlet",
+            "address": "Sweet Mor , Pairachattar , Jhe",
+            "district": "Jhenaidha"
+      },
+      {
+            "code": "F360",
+            "name": "Santinagar Bazar Road Outlet",
+            "address": "Holding No: 16/18, Santinagar",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F361",
+            "name": "Kuliarchar Bazar Kishoreganj O",
+            "address": "Holding No: 280, Kuliarchar Ba",
+            "district": "Kishoreganj"
+      },
+      {
+            "code": "F362",
+            "name": "Shah Shuja Road Narayanganj Ou",
+            "address": "77 Shah Shauja Road, , Paikpar",
+            "district": "Narayanganj"
+      },
+      {
+            "code": "F363",
+            "name": "Doyamoyee Mor Jamalpur Outlet",
+            "address": "Doyamoyee Mor , Jamalpur Sadar",
+            "district": "Jamalpur"
+      },
+      {
+            "code": "F364",
+            "name": "Palshbari Ashulia Outlet",
+            "address": "Mouza : Ashulia Jl No : 49; Pa",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F365",
+            "name": "Belkuchi Sirajganj Outlet",
+            "address": "Mukundagati Kaborsthan Road,",
+            "district": "Sirajganj"
+      },
+      {
+            "code": "F366",
+            "name": "Chitolmari Bagerhat Outlet",
+            "address": "Mach Bazar Road,Machbazar, Chi",
+            "district": "Bagerhat"
+      },
+      {
+            "code": "F367",
+            "name": "Charfasson Bhola Outlet",
+            "address": "Holding No: 217/1, Charfasson",
+            "district": "Bhola"
+      },
+      {
+            "code": "F368",
+            "name": "Garib Shah Sarak Jashore Outle",
+            "address": "Mouza: Puratan Kasba, Garib Sh",
+            "district": "Jashore"
+      },
+      {
+            "code": "F369",
+            "name": "Nasirabad 2nd Gate Outlet",
+            "address": "",
+            "district": "Chattogram"
+      },
+      {
+            "code": "F370",
+            "name": "Monipur Mirpur Outlet",
+            "address": "Holding No: 856/3, Monipur, Mi",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F371",
+            "name": "Norda Outlet",
+            "address": "Holding No: Ka-14/9-1, Norda,",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F372",
+            "name": "Chuadanga Outlet",
+            "address": "Chuadanga Sadar",
+            "district": "Chuadanga"
+      },
+      {
+            "code": "F373",
+            "name": "Khalifa Ghat Kamrangichar Outl",
+            "address": "Kamleshwar, Kamrangichar",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F374",
+            "name": "Jirani Savar Outlet",
+            "address": "Khatian No: 626, Jirani, Savar",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F375",
+            "name": "Thakurgaon Road  Outlet",
+            "address": "JL No: 114, Mouza: Chit Chilar",
+            "district": "Thakurgaon"
+      },
+      {
+            "code": "F376",
+            "name": "Bhuighar NG Outlet",
+            "address": "Mouza: Bhuighar, Fatullah",
+            "district": "Narayanganj"
+      },
+      {
+            "code": "F377",
+            "name": "Taraboniar Chara Coxsbazar Out",
+            "address": "Mouza: Coxsbazar, Jhilonja, Ta",
+            "district": "Coxsbazar"
+      },
+      {
+            "code": "F378",
+            "name": "Kazibari Road Tongi Outlet",
+            "address": "Kazi Bari Road , Tongi",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F379",
+            "name": "Dumki Patuakhali Outlet",
+            "address": "Holding No: 936, Natunbazar, D",
+            "district": "Patuakhali"
+      },
+      {
+            "code": "F380",
+            "name": "East Hazipara Outlet",
+            "address": "East Hazipara ( Bou Bazar) Ram",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F381",
+            "name": "Hazi Mahshin Ali Road Nilphama",
+            "address": "JL No: SA -37, BS- 72, JL No:",
+            "district": "Nilphamari"
+      },
+      {
+            "code": "F382",
+            "name": "Grand Hotel Mor Rangpur Outlet",
+            "address": "Grand Hotle Mor, Kotwali",
+            "district": "Rangpur"
+      },
+      {
+            "code": "F383",
+            "name": "Jinjira Keraniganj Outlet",
+            "address": "Jinjira , Keraniganj",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F384",
+            "name": "Balashur Bhaggokul Outlet",
+            "address": "Mouza: Kamagaw, Bhaggokul, Sre",
+            "district": "Munshiganj"
+      },
+      {
+            "code": "F385",
+            "name": "Paragram Nawabganj Outlet",
+            "address": "Mouza: Paragaon, Paragram Baza",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F386",
+            "name": "Bangalipur Mor Saidpur Outlet",
+            "address": "Bangalipur Mor, Saidpur",
+            "district": "Nilphamari"
+      },
+      {
+            "code": "F387",
+            "name": "Link Road Cox'bazar Outlet",
+            "address": "Link Road Cox'sbazar",
+            "district": "Cox'sbazar"
+      },
+      {
+            "code": "F388",
+            "name": "Shahid Siddique Road, Gazipur",
+            "address": "Shaheed Siddik Road, Joynal Ha",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F389",
+            "name": "B-Block South Banasree Outlet",
+            "address": "South Banasree Main Road, Khil",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F390",
+            "name": "Court Road B.Baria Outlet",
+            "address": "Brahmanbaria Sadar",
+            "district": "Brahmanbaria"
+      },
+      {
+            "code": "F391",
+            "name": "Nobodoy Housing Outlet",
+            "address": "Dag No: 6516, Khatian No: 576,",
+            "district": "Mohammadpur"
+      },
+      {
+            "code": "F392",
+            "name": "Joar Shahara Outlet",
+            "address": "Holding No: Ka-32, Olipara, Jo",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F393",
+            "name": "Gafargaon Mymensingh Outlet",
+            "address": "Holding No: 382, Moddho Bazar",
+            "district": "Mymensingh"
+      },
+      {
+            "code": "F394",
+            "name": "Akbarshah CTG Outlet",
+            "address": "Plot- 43, Block-A, Kaibalyadha",
+            "district": "Chattogram"
+      },
+      {
+            "code": "F395",
+            "name": "Meherpur Outlet",
+            "address": "Mouza: Meherpur Baro Bazar, Me",
+            "district": "Meherpur"
+      },
+      {
+            "code": "F396",
+            "name": "Zirani-2 Bazar Road Outlet",
+            "address": "Mouza: Tenguri, Zirani Bazar R",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F397",
+            "name": "Shipahibagh Outlet",
+            "address": "Uttar Shipahibagh Tempo Stand",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F398",
+            "name": "Bamundi Meherpur Outlet",
+            "address": "Jhedda market, Bamundi, Gangni",
+            "district": "Meherpur"
+      },
+      {
+            "code": "F399",
+            "name": "Chandra Polli Biddhuth Outlet",
+            "address": "Chandra,Kalaiakoir,",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F400",
+            "name": "Oxygen Mor Chattagram Outlet",
+            "address": "Oxygen Mor ,",
+            "district": "Chattogram"
+      },
+      {
+            "code": "F401",
+            "name": "Washpur Keraniganj Outlet",
+            "address": "Main Road, Washpur , Keranigan",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F402",
+            "name": "Patgram Lalmonirhat Outlet",
+            "address": "JL No: 20, Patgram Municipilty",
+            "district": "Lalmonirhat"
+      },
+      {
+            "code": "F403",
+            "name": "Bolivodro Bazar Ashulia  Outle",
+            "address": "Bolivodro Bazar , Ashulia",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F404",
+            "name": "Chuknagar Khulna Outlet",
+            "address": "Chuknagar Bus Stand , Dumuria",
+            "district": "Khulna"
+      },
+      {
+            "code": "F405",
+            "name": "Old Bus Stand Kaliakair Oultet",
+            "address": "Shila Bristi Complex , Old Bus",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F406",
+            "name": "Kataikhana Kushtia Outlet",
+            "address": "Kataikhana Mor, Kustia Sadar ,",
+            "district": "Kustia"
+      },
+      {
+            "code": "F407",
+            "name": "Katakhali Rajshahi Outlet",
+            "address": "Maskatadigh High School, Katak",
+            "district": "Rajshahi"
+      },
+      {
+            "code": "F408",
+            "name": "Khandar Bogura Outlet",
+            "address": "Gohail, Khandar , Bogura Sadar",
+            "district": "Bogura"
+      },
+      {
+            "code": "F409",
+            "name": "Sujanagar Pabna Outlet",
+            "address": "Opposite Municipal Buliding ,S",
+            "district": "Pabna"
+      },
+      {
+            "code": "F410",
+            "name": "Sreepur Bazar Gazipur Outlet",
+            "address": "Sreepur Bazar , Sreepur Munici",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F411",
+            "name": "Station Road Sylhet Outlet",
+            "address": "Mouza: Vardkhola, JL No: 77, S",
+            "district": "Sylhet"
+      },
+      {
+            "code": "F412",
+            "name": "Mollahat Bagerhat Outlet",
+            "address": "Khan Super Market, Thana road",
+            "district": "Bagerhat"
+      },
+      {
+            "code": "F413",
+            "name": "Surtaranga Road Tongi  Outlet",
+            "address": "Surtaraga Road, Tongi",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F414",
+            "name": "Saturia Manikganj Outlet",
+            "address": "Morjina Bhaban, Saturia  Bazar",
+            "district": "Manikganj"
+      },
+      {
+            "code": "F415",
+            "name": "Pangsha Rajbari Outlet",
+            "address": "Pangsha Bazar Road, Pangsha",
+            "district": "Rajbari"
+      },
+      {
+            "code": "F416",
+            "name": "Shofiuddin School Road Tongi",
+            "address": "Safiuddin sarker academy road,",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F417",
+            "name": "Amzad Ali Girls School Road To",
+            "address": "West Auchpara , Tongi",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F418",
+            "name": "Barelekha Moulvibazar Outlet",
+            "address": "",
+            "district": "Moulvibazar"
+      },
+      {
+            "code": "F419",
+            "name": "Ishwarganj Mymensingh  Outlet",
+            "address": "JL No: 211, Upazila Gate, Ishw",
+            "district": "Mymensingh"
+      },
+      {
+            "code": "F420",
+            "name": "Panchabati Narayanganj Outlet",
+            "address": "Panchabati, Fatullah",
+            "district": "Narayanganj"
+      },
+      {
+            "code": "F421",
+            "name": "Juri Moulvibazar Outlet",
+            "address": "Upazila Chattar, Juri",
+            "district": "Moulvibazar"
+      },
+      {
+            "code": "F422",
+            "name": "C -Block  Pallabi  Outlet",
+            "address": "House #1/1 Road # 20, Block #",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F423",
+            "name": "Malibagh Railgate Outlet",
+            "address": "Malibagh Bazar Road; Dhaka Sou",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F424",
+            "name": "Purbachal Road ,Badda Outlet",
+            "address": "Purbachal Road, Uttar Badda, B",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F425",
+            "name": "Ranisankail Thakurgaon Outlet",
+            "address": "Shimultola,Ranisankail Municip",
+            "district": "Thakurgaon"
+      },
+      {
+            "code": "F426",
+            "name": "J-Block South Banasree Outlet",
+            "address": "Block: J, South Banasree, Khil",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F427",
+            "name": "Basher Pool Demra Outlet",
+            "address": "Basher Pool, Dogair Paschim Pa",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F428",
+            "name": "Old Chandgaon CTG Outlet",
+            "address": "Dag No: 11582, Khatian No: 852",
+            "district": "Chattogram"
+      },
+      {
+            "code": "F429",
+            "name": "Sadar Road Bhola Outlet",
+            "address": "Ward No: 07, Ukil Para , Sadar",
+            "district": "Bhola"
+      },
+      {
+            "code": "F430",
+            "name": "Lalmohan Bhola Outlet",
+            "address": "Hospital Road, Uttar Bazar Lal",
+            "district": "Bhola"
+      },
+      {
+            "code": "F431",
+            "name": "Morrelganj Bagerhat Outlet",
+            "address": "Mouza: Morrelganj , College Ro",
+            "district": "Bagerhat"
+      },
+      {
+            "code": "F432",
+            "name": "Bakerganj Barishal Outlet",
+            "address": "Sadar Road Bakerganj, Bakergan",
+            "district": "Barishal"
+      },
+      {
+            "code": "F433",
+            "name": "Chandraganj Lakshmipur Outlet",
+            "address": "Mouza: Deopara, Chandraganj Ba",
+            "district": "Lakshmipur"
+      },
+      {
+            "code": "F434",
+            "name": "Chowdhurypara Khilgaon Outlet",
+            "address": "Khilgaon, Chowdhury para, Khil",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F435",
+            "name": "Domar Nilphamari Outlet",
+            "address": "Banwari Mor, Dakbangla  Road,",
+            "district": "Nilphamari"
+      },
+      {
+            "code": "F436",
+            "name": "Islampur Jamalpur Outlet",
+            "address": "Islampur Bazar, Islampur",
+            "district": "Jamalpur"
+      },
+      {
+            "code": "F437",
+            "name": "Joina Bazar Gazipur Outlet",
+            "address": "College Road, Joina Bazar, Sre",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F438",
+            "name": "Poschim Bhasantek Outlet",
+            "address": "Dhaka Cantonment, Bhasantek",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F439",
+            "name": "Patiya CTG Outlet",
+            "address": "Thana Mor, Post office Road",
+            "district": "Chattagram"
+      },
+      {
+            "code": "F440",
+            "name": "Dashmina Patuakhali Outlet",
+            "address": "NolKhola Bandar, Puratan Bridg",
+            "district": "Patuakhali"
+      },
+      {
+            "code": "F441",
+            "name": "Kolpolok CTG Outlet",
+            "address": "Kolpolok R/A, Bakalia",
+            "district": "Chattogram"
+      },
+      {
+            "code": "F442",
+            "name": "Shibganj Chapainawabganj Outle",
+            "address": "Thana Mor, Main Road, Shibganj",
+            "district": "Chapainawabganj"
+      },
+      {
+            "code": "F443",
+            "name": "IUT Gate Gazipur Outlet",
+            "address": "Islamic University of Technolo",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F444",
+            "name": "Barek Mollar Mor Outlet",
+            "address": "Dag No: 17013, 17028, 17029, K",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F445",
+            "name": "Padua CTG Outlet",
+            "address": "Mouza: Padua, Padua Bazar , Lo",
+            "district": "Chattagram"
+      },
+      {
+            "code": "F446",
+            "name": "XXXX Not Using",
+            "address": "House No: 14, Road No: 07, Blo",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F447",
+            "name": "Nabinagar Housing Outlet",
+            "address": "Dhaka Uddan R/A, Nabinagar hou",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F448",
+            "name": "Sadarpur Faridpur Outlet",
+            "address": "Sadarpur Bazar Main Road",
+            "district": "Faridpur"
+      },
+      {
+            "code": "F449",
+            "name": "Arifabad Outlet",
+            "address": "House No: 6/A, Block-F, Arifab",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F450",
+            "name": "BIDC Bazar Gazipur Outlet",
+            "address": "Shimultali Chattar, Post: B. O",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F451",
+            "name": "Akhra Bazar Kishoreganj Outlet",
+            "address": "Akhra Bazar, Kishoreganj Munic",
+            "district": "Kishoreganj"
+      },
+      {
+            "code": "F452",
+            "name": "Mosjid Road Gazipur Outlet",
+            "address": "Board bazar Central Mosque Roa",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F453",
+            "name": "Momenbagh Outlet",
+            "address": "Ward No: 64, Jatrabari",
+            "district": "Dhaka"
+      },
+      {
+            "code": "F454",
+            "name": "Gazipura Bus Stand Outlet",
+            "address": "Gazipura Dakshin, Ward No: 50,",
+            "district": "Gazipur"
+      },
+      {
+            "code": "F455",
+            "name": "Dimla Nilphamari Outlet",
+            "address": "Mouza: Dimla, Babur Hat Bazar,",
+            "district": "Nilphamari"
+      },
+      {
+            "code": "F456",
+            "name": "Court Mor Shariatpur Outlet",
+            "address": "Court Mor, Sadar Road, Shariat",
+            "district": "Shariatpur"
+      },
+      {
+            "code": "F457",
+            "name": "Kumarkhali Kushtia Outlet",
+            "address": "Sadman City, Kumarkhali Bus St",
+            "district": "Kushtia"
+      },
+      {
+            "code": "F458",
+            "name": "Mainamati Cumilla Outlet",
+            "address": "Tipra Bazar, Cumilla-B.Baria R",
+            "district": "Cumilla"
+      },
+      {
+            "code": "F459",
+            "name": "North Mugdapara Outlet",
+            "address": "Mugda, Dhaka South City Corpor",
+            "district": "Dhaka"
+      },
+      {
+            "code": "FR01",
+            "name": "DC for for Franchise",
+            "address": "Tejgao I/A",
+            "district": "Dhaka"
+      },
+      {
+            "code": "K001",
+            "name": "Khulna Haji Mahsin Road Outlet",
+            "address": "52,Haji Mohsin Road",
+            "district": "Khulna"
+      },
+      {
+            "code": "K002",
+            "name": "Khulna Majid Soroni Outlet",
+            "address": "130-131,Majid Soroni,",
+            "district": "Khulna"
+      },
+      {
+            "code": "K003",
+            "name": "Khulna Nirala outlet",
+            "address": "Abdur Razzaque Trade Centre, S",
+            "district": "Khulna"
+      },
+      {
+            "code": "K004",
+            "name": "Jessore Rail  Road Outlet",
+            "address": "Char Khambar more, Rail road",
+            "district": "Jessore"
+      },
+      {
+            "code": "K005",
+            "name": "Jhenaidah Women College",
+            "address": "Women's College Road",
+            "district": "JHENAIDAH"
+      },
+      {
+            "code": "K006",
+            "name": "Khulna Moylapota Outlet",
+            "address": "9/2, Sher E Bangla Road",
+            "district": "Khulna"
+      },
+      {
+            "code": "K007",
+            "name": "Boyra, Khulna",
+            "address": "Boyra, Sonadanga,",
+            "district": "Khulna"
+      },
+      {
+            "code": "K008",
+            "name": "South Central Road (Khulna)",
+            "address": "Thana: Khulna Sadar",
+            "district": "Khulna"
+      },
+      {
+            "code": "KH01",
+            "name": "Khulna Regional Distribution",
+            "address": "Northern Hatcheries Ltd",
+            "district": "JOSSORE"
+      },
+      {
+            "code": "R001",
+            "name": "Bogora Jaleshwaritala outlet",
+            "address": "Judge court road, Jaleswaritol",
+            "district": "BOGRA"
+      },
+      {
+            "code": "R002",
+            "name": "Rangpur Lalbag outlet",
+            "address": "House# 23, K.D.C. Lalbagh",
+            "district": "RANGPUR"
+      },
+      {
+            "code": "R003",
+            "name": "Rangpur Jail Road Outlet",
+            "address": "Public shopping mall",
+            "district": "Rangpur"
+      },
+      {
+            "code": "R004",
+            "name": "Bogra Uposohor Outlet",
+            "address": "Chairman Plaza, Upashahar",
+            "district": "Bogra"
+      },
+      {
+            "code": "R005",
+            "name": "Pabna Gopalpur Outlet",
+            "address": "Sakib Plaza, Holding-48",
+            "district": "Pabna"
+      },
+      {
+            "code": "R006",
+            "name": "Natore-Zaman Plaza",
+            "address": "Natore FK Zaman Plaza, 239-240",
+            "district": "Natore"
+      },
+      {
+            "code": "R007",
+            "name": "Rajshahi-Laxmipur",
+            "address": "Laxmipur Chowdhury Shopping To",
+            "district": "Rajshahi"
+      },
+      {
+            "code": "R008",
+            "name": "Bogura Malati Nagar Outlet",
+            "address": "Bogura Convention Hall, DC Ban",
+            "district": "Bogra"
+      },
+      {
+            "code": "R009",
+            "name": "Joypurhut Outlet",
+            "address": "Bata more, Sadar Road,",
+            "district": "Joypurhat"
+      },
+      {
+            "code": "R010",
+            "name": "Naogaon Old Bus Stand Outlet",
+            "address": "Naogaon Old Bus stand, Naogaon",
+            "district": "Naogaon"
+      },
+      {
+            "code": "R011",
+            "name": "Alupatti, Rajshahi",
+            "address": "Post: Ghoramara, Thana: Boalia",
+            "district": "Rajshahi"
+      },
+      {
+            "code": "RA01",
+            "name": "Rajshahi Regional Distribution",
+            "address": "Mohasthangar, Bogura",
+            "district": "BOGRA"
+      },
+      {
+            "code": "RFDC",
+            "name": "Reference Distribution Center",
+            "address": "",
+            "district": ""
+      },
+      {
+            "code": "RFST",
+            "name": "Reference Store",
+            "address": "",
+            "district": ""
+      },
+      {
+            "code": "S001",
+            "name": "Sylhet Shahjalal Housing",
+            "address": "P # D1,B# D,Shahjalal",
+            "district": "SYLHET"
+      },
+      {
+            "code": "S002",
+            "name": "Sylhet Shibgong  Outlet",
+            "address": "Shyllmark Tower, Shibgong",
+            "district": "SYLHET"
+      },
+      {
+            "code": "S003",
+            "name": "Sylhet  Pathantola Outlet",
+            "address": "Sun Rise tower,69/1",
+            "district": "SYLHET"
+      },
+      {
+            "code": "S004",
+            "name": "Moulovibazar Outlet",
+            "address": "Shah Mostafa Garden City,",
+            "district": "Moulovibazar"
+      },
+      {
+            "code": "S005",
+            "name": "Hobiganj Kalibari More Outlet",
+            "address": "Kalibari, Agrani Bank (Old)",
+            "district": "HOBIGANJ"
+      },
+      {
+            "code": "S006",
+            "name": "Zindabazar outlet",
+            "address": "Zindabazar",
+            "district": "Sylhet"
+      },
+      {
+            "code": "S007",
+            "name": "Beanibazar Outlet",
+            "address": "CITY CENTER Address # Fathepur",
+            "district": "Sylhet"
+      },
+      {
+            "code": "S008",
+            "name": "Amberkhana Outlet",
+            "address": "Arcadia Complex, Darshan Deuri",
+            "district": "Sylhet"
+      },
+      {
+            "code": "S009",
+            "name": "Moulvibazar Outlet",
+            "address": "Moulvibazar Sadar",
+            "district": "Moulvibazar"
+      },
+      {
+            "code": "SY01",
+            "name": "Sylhet Regional Distribution C",
+            "address": "Antaranga 70/1, Uttar Kazitula",
+            "district": "SYLHET"
+      },
+      {
+            "code": "X001",
+            "name": "Consumer Retailling Enterprise",
+            "address": "Victoria Road",
+            "district": "Tangail"
+      },
+      {
+            "code": "X002",
+            "name": "M/S Argosy",
+            "address": "Siddik Tower, North Bazar",
+            "district": "Laxmipur"
+      },
+      {
+            "code": "X003",
+            "name": "M/S. JONONEE BUILDERS",
+            "address": "Hasnabad , South Keraniganj",
+            "district": "Dhaka"
+      },
+      {
+            "code": "X004",
+            "name": "M/S K S P Trading",
+            "address": "95, Paikpara , Mkanai High Sch",
+            "district": "Brahmanbaria"
+      },
+      {
+            "code": "X005",
+            "name": "Ideal Computer System",
+            "address": "Shahid Nazrul Islam Sarak, Pol",
+            "district": "Barisal"
+      },
+      {
+            "code": "X006",
+            "name": "Modern Steel Furniture",
+            "address": "Jhawtala, Adarsha Sadar",
+            "district": "Comilla"
+      },
+      {
+            "code": "X007",
+            "name": "M/S Rony Enterprise",
+            "address": "Bokultola Road, Bokultola",
+            "district": "Jamalpur Sadar"
+      },
+      {
+            "code": "X008",
+            "name": "Z. R. M Enterprise",
+            "address": "H.N# 262, Bottola Road, Bhaira",
+            "district": "Bhairab, Kishoreganj"
+      },
+      {
+            "code": "X009",
+            "name": "E and J Enterprise",
+            "address": "Grand Haq Tower, Mizan Road,",
+            "district": "Feni"
+      },
+      {
+            "code": "X010",
+            "name": "Mondal Telecom",
+            "address": "Highway Road, Gobindaganj",
+            "district": "Gaibandha"
+      },
+      {
+            "code": "X011",
+            "name": "Masrafi Agency",
+            "address": "Sostitola, New market Road,",
+            "district": "Rajshahi"
+      },
+      {
+            "code": "X012",
+            "name": "City Super Mall",
+            "address": "Holding no:18 .Shaheb Ali Road",
+            "district": "Mymensingh"
+      },
+      {
+            "code": "X014",
+            "name": "Naz-Ha-Pharma",
+            "address": "41,Jigatala, Dhanmondi",
+            "district": "Dhaka"
+      },
+      {
+            "code": "X015",
+            "name": "XX under construction",
+            "address": "",
+            "district": "Tangail"
+      }
+]
